@@ -1,7 +1,6 @@
 # Site settings
 title: networks.land
-description: > # this means to ignore newlines until "baseurl:"
-	Keeping notes on network pedagogy, or something.
+description: Keeping notes on network pedagogy or something.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://networks.land" # the base hostname & protocol for your site
 
