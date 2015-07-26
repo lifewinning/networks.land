@@ -1,9 +1,8 @@
 ---
 layout: default
+title:  "This is where we put the stuffs that help make the stuffs"
 categories: resources
 ---
-
-#Helpful links, resources, references 
 
 [How It's Made Fiber Optics](https://www.youtube.com/watch?v=u1DRrAhQJtM)
 
