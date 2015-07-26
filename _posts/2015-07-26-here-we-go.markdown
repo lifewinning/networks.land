@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Hello World Here Is A Braindump"
+date:   2015-07-26 
+---
+
+Today we sat down and tried to figure out what the hell we're doing trying to create educational content about network infrastructure. For us, this meant starting out with the really obvious thing of dumping out every aspect of network infrastructure we could think of and then categorizing them based on related themes. (Everyone knows that [the more post-it notes you have on a whiteboard](https://dl.dropboxusercontent.com/u/1108171/Photo%20Jul%2026%2C%2015%3A06%3A52.jpg), the more likely your project will be very successful, this is just science talking.)
+
+This is more or less what we came up with: 
+
+# Transport
+The "highway" part of the "information superhighway"--actual devices and objects that are instrumental in moving data from one place to anoher
+
+- Cables (submarine, terrestrial fiber)
+- Radio/Wireless
+- Satellite
+- Switching points and colocation and data centers
+
+# Packets
+The "information" part--what's actually being delivered to your browser, and how does that happen at the software level?
+
+- Protocols
+- Packets!!!
+- Routing
+- Browsers
+
+# Networks
+On its face this sort of sounds like the same thing as protocols but it's slightly different--basically, this is mostly a matter of clarifying that what we think of as "the internet" isn't one thing nor is it experienced in the same way within every networked device.
+
+- Mesh vs wheel-and-spoke
+- Private networks and LANs vs WWW
+- the fucking Internet of Things
+
+#Control
+Roughly the non-technical and/or non-machine methods that influence networks
+
+- Governance (ICANN, DNS, W3C, WTF)
+- Ownership (Tier 1 networks, telecoms)
+
+
+Within all these categories there's some thematic elements that come up which kind of run through all of them: 
+
+- **Histories** (e.g., why do we use TCP/IP? why did anyone thing submarine cables were a good idea?)
+- **Roadblocks** (political, physical, or technical obstacles to connectivity or access)
+- **Futures** (what's IPv6? how are we building out network infrastructure today?)
+
+This all is probably subject to lots of rewriting and re-arranging, but mostly breaking this stuff down is helpful for figuring out what to tackle first and how to tackle it. 
