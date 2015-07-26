@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "This is where we put the stuffs that help make the stuffs"
+title:  "Resources"
 categories: resources
 ---
 
