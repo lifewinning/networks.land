@@ -26,6 +26,7 @@ Another thing is  when you start playing with networks one of the biggest early 
 But a previous attempt is here:
 [A Packet sniffing and injection tutorial using processing and scapy](http://suryamattu.com/PACKET-SNIFFING-TUTORIAL)
 
+Thougths?
 
 ## Length of talk / panel / workshop
 1.5hrs?
