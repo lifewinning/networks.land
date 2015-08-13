@@ -1,45 +1,33 @@
-## Network Geography Workshop
+## I Think Therefore ICANN: An RPG about TLDs
 Name : Ingrid Burrington & Surya Mattu
 Location : Brooklyn, NY
-Email : 
-Twitter : 
-GitHub : 
+Email : lifewinning@gmail.com, surya@suryamattu.com
+Twitter : @lifewinning, @suryamattu
+GitHub : github.com/lifewinning, github.com/suryamattue
 Url(s) : 
 
 ## Type of proposal
-Workshop/demo
+Workshop
 
 ## Description of your talk / panel / workshop / demo
-[Description goes here. Try to keep it under 300 words, but more than 140 characters. Note that panels should follow a moderator / discussion format, with possible participation from the audience.]
 
-I guess this is where we have to decide what the thing we actually do is. It depends a bit on what we want the takeaway to be. What ideas are worth regurgitating? How much live coding should there be?
+Domain names are where the politics, poetics, and peculiarities of the web express themselves. But even the most active clever domain name hoarder might not really understand how the Domain Name System works, why certain TLDs exist, and how they at times become an arena where real-world geopolitical conflicts play out online. 
 
-If we're doing a coding thing I feel like it could be interesting to do a walk through of how packet gets from one place to another and what it actually says about where its going, what data its carrying, what we can infer from it based on the different layers (IP,PORT,HTTP, HTTPS,UDP) etc. 
-
-Thinking about it, might be fun to actually have some precrafed pcaps that we can get them all to run through(somehow?). As a way to focus on the the details that help navigate the mental models. Like we can have a packet going to bobby.horse. And then ask the question: Who owns bobby.horse? The answer (I just checked) is no one. We should buy it and make it something funny. We then make them do a whois lookup and talk about what icann is, the challaneges of ipv4,v6 or even TLDs or mesh networks.
-
-Im not super attached to any of this, but just want to put down what Im thinking so you know where I'm coming from.
-The above example is probably too simplistic, but I think the format of us navigating them through a topic is a good way to go.
-
-
-Another thing is  when you start playing with networks one of the biggest early barriers of entry is the speed of the network. slowing things down might make it more fun. Again, need to think more about what to slow down. 
-But a previous attempt is here:
-[A Packet sniffing and injection tutorial using processing and scapy](http://suryamattu.com/PACKET-SNIFFING-TUTORIAL)
-
-Thougths?
+This is a workshop about understanding the technical structures behind the weird and deeply political world of domain names via a live-action roleplaying game. We'll begin with an overview of DNS, ICANN, the TLD creation process, engage in some roleplaying scenarios based on real-world incidents in ICANN history, and brainstorm alternative models to the current model for network naming conventions. Somewhere between Risk, D&D, and TRON. 
 
 ## Length of talk / panel / workshop
-1.5hrs?
+1.5hrs
 
 ## Workshop technical requirements and materials list
 [For workshops, include technical requirements, the maximum number of attendees and a full list of materials needed for attendees.]
+- Max 15 participants
+- Projector for laptopping is useful
+- Tables and chairs
 
-## Demo installation requirements
-[For demos, include installation requirements. Please note that most we can provide is table space, power, and network connectivity. Pieces cannot be mounted on walls or ceiling. Demos must be installed both days 10/24 and 10/25 and be attended to. We are not responsible for damages done to your work! (Although we will take every precaution we can to safely handle your work.)]
 
-TBD
 ## Speaker Bio
-[URL to bio picture goes here. Format for bio picture should be PNG/JPG/GIF, 256x256.]
 
-[Bio goes here. I'm an example bio. My background includes this and that. I've also contributed to these projects. These are some of my interests.]
+https://avatars3.githubusercontent.com/u/1969578?v=3&s=256
+https://www.dropbox.com/s/biexqdrf3d6kkpb/oh_for_sure_man.jpg?dl=0
 
+Surya and Ingrid promise they'll write a bio later. 
