@@ -29,6 +29,7 @@ So here are some questions I have so far:
   Bad example, modem stands for MOdulaator DEModulator and was actually around in a nascent form in the 1920s way before arpanet and the likes.
 
  Along with questions here are other background type things that I think will give a more wholesome picture   
+ 
 ##Information theory
 
   Shannon and Information theory. Basically the first mental model to think about is that information theory is all about the quantification of the amount of 'Information' in a given object. 
