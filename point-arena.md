@@ -34,6 +34,7 @@
 ###Other Possible Collaborators
 
 - Sam Kronick/Disk Cactus--frequently aforementioned infrastructure friend running a studio in Oakland, is insanely stoked to be involved, has useful Point Arena connections.
+	- 	Im down. Will let you lead on this as you know him.
 
 - Jenna Burrell--professor at Berkeley iSchool, doing cool things, hasn't responded to my email. 
 
@@ -56,3 +57,23 @@
 - Bearing in mind that thing about how they're alreeady "connected" at least via mobile, trying to incentivize interest by doing something with DIY networks. I.E. here are tools for building a space to do stuff and talk with your friends that your parents can't access. 
 
 - We have to work on the TLD RPG anyway for Radical Networks?
+
+###SM Notes
+- Feels like a series of workshops about the internet and its infrastructure (duh). Im working on the assumption that we are going to do these at the tech center and they will be after school workshops.
+
+- Seperating the transport and data layer makes sense
+
+- So one day on physical stuff, the next on packet switching and how that infrastructure is put to use, and finally using these principals to make a mobile friendly DIY network.
+
+
+ - Fieldtrip/crowdmap
+	-  Given time contraints I dont know if we can do both. Can we integrate them in the same day somehow?
+ - Packet Switching obstacle course
+ 	- LOVE this idea. Currently thinking of mechanisms that can be used for the course. Maybe you dont know your endpoint at the start and both teams have to take multiple hops to get to the final endpoint. 
+ - DIY Network
+  	- We should talk to them more before diving deep into this one. Nothing we can make is going to be as fancy as the apps they're used to so the main incentives are personalization and platform control. 
+ 
+ 
+
+
+
