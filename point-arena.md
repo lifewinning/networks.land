@@ -69,7 +69,10 @@
 
 	*I think the more we can clearly link each workshops' activities to one another the better--i.e. being able to refer back to the transport layer piece during the data layer piece ("remember when you had to run around and piece together that puzzle thing? this is like that!").*  
 
+
  	*One thing that a friend who has done a lot of work with teaching kids suggested is to structure workshops with one anchor activity and then building out around it? So like, if the group is only able to really get through one piece of the thing they'll still have fun, and if there's a couple of super-advanced kids who get through it really fast there's other activities for them to do.*
+ 	
+	**That makes sense to me, I guess I was worried that we wouldnt have the same kids for each workshop.**
 
  - Fieldtrip/crowdmap
 	-  Given time contraints I dont know if we can do both. Can we integrate them in the same day somehow?
@@ -83,4 +86,8 @@
  
  	*Yeah, we won't be making them a brand new Facebook or something. It we give them a cool thing to do on the network (games, chat, a place to store photos) that might help. How advanced do we want to get on the personalization angle? Like do we build a GUI for stuff on the network or do we crash-course them in ssh and command-line text editing? This isn't a thing that needs to be decided for Blake it's more just a thing I'm thinking about.*
 
+	**Many thoughts on this, probably best for phone discussion.**
+
  	*I'm going to shoot an email to Zean from Further Reach about whether he'd have time/want to help teach some of the transport layer stuff specifically looking at the microwave network. I mean, he personally trenched some of that fiber and configured those networks, so he's probably the best person to explain them.* 
+	
+	**Sounds good**
