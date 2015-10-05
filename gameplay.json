@@ -1,0 +1,66 @@
+{
+	"players":[
+		{
+			"type": "ccTLD",
+			"political_stability": ["high","moderate","low"],
+			"political_spectrum": ["very open","very conservative","moderate"],
+			"economic_status":["wealthy","average","poor"]
+		},
+		{
+			"type":"gTLD",
+			"subtype":[
+				{
+					"type":"gTLD-geographic",
+					"objective":["secession","cultural identity promotion"]
+				},
+				{
+					"type":"gTLD-sponsored",
+					"objective": ["single-issue","get all the gTLDs"]
+				}
+			]
+		}
+		
+	],
+	"chance_cards":[
+		{
+			"player_type": "ccTLD",
+			"event": "governmental collapse! your country is broken up into 3 separate countries",
+			"options": "lose a turn for government and TLD restructuring. scarcity points cut by 2/3rds in all future rounds."
+		},
+		{
+			"player_type": "ccTLD",
+			"event": "political instability has your country on the verge of civil war. your opponents are using the internet to coordinate protests.",
+			"options": ["shut down the internet (lose a turn and 50 points)", "coordinate a hacker squad in response (lose 25 points)", "surrender to the revolution (end participation in the game)"]
+		},
+		{
+			"player_type":"ccTLD",
+			"event": "someone not in your country is using your TLD in a way your government doesn't like",
+			"options":["establish TLD decency laws, creating political upheaval and limiting use of your TLD (lose 50 points, scarcity points cut in half)", "do nothing (lose 25 points for political fallout) "]
+		}
+		{
+			"player_type": "ccTLD",
+			"event": "Domain Hack Bonus",
+			"options":"add 75 points to your scarcity rounds. If you're working with a middleman, 50 points go to the middleman."
+		},
+		{
+			"player_type": "ccTLD",
+			"event": "A middleman service offers to manage your domain for you.",
+			"options":["No thanks, I have the infrastructure I need to manage my domain (no points changes)"]
+		},
+		{
+			"player_type":"gTLD",
+			"event": "Domain Hack Bonus",
+			"options":"add 50 points to your scarcity rounds. If you're working with a middleman, you see none of these points."
+		},
+		{
+			"player_type":"gTLD-geographic",
+			"event": "your secessionist efforts are successful!",
+			"options": ["gain 75 points this round, scarcity points cut in half to pay for nation-building needs"]
+		},
+		{
+			"player_type": "gTLD",
+			"event": "someone is using your TLD in a way you don't like",
+			"options": ["establish registration rules (scarcity points cut in half)", "do nothing (lose 25 points for community fallout)"]
+		}
+	]
+}

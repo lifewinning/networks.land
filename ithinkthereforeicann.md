@@ -40,6 +40,13 @@
 				- places that might like more sovereignty than they have (.wales, .scot)
 			- varied requirements w/r/t relationship to place
 	- Acquisition process
+		- Application fee is $185,000--$5K of which is paid to reserve a space *for* your application, the remainder paid when the application's actually submitted
+		- Why is it so expensive? According to ICANN: 
+			> The total fee per applicant takes into account close to $US13 million invested by ICANN since October 2007 to put the design of the implementation program in place. It includes allocated staff time, direct consulting expenses and other fixed costs.
+		- The application basically needs to make the case for why a domain should exist--what, if any, demographic it serves, how it will benefit the name space, 
+		- Two weeks after the application deadline, ICANN publishes the total list of applications. At that point domain applications can be contested
+		- Things that can't be registered as gTLDs: existing 2 or 3-letter ISO country codes (.and, for example), registered trademark products (not even by the owner of the trademark), 
+
 	- Ownership
 		- individual institutional stakeholders for very narrow, specific participants (.museum, .aero)
 		- representatives of a regional/cultural concern (.cat)
