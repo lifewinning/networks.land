@@ -2,8 +2,21 @@
 
 ### Background
 
+####Why do we need domain names?
+
+- DNS allows us to translate computer IP addresses to human readable urls. Its easier to remember google.com than 139.130.4.5. When the Internet was small the network maintained a plain text file called HOSTS.txt	which was the master list of the mappings of hosts to IP addresses. As the network scaled this approach became impractical. The DNS protocol was created to deal with this problem.
 - Domain names make the internet a whole lot easier and a whole lot more fun, but the process that creates them entails a lot of weird complicated things
-- It started, like a lot of things about how the internet works, as kind of an accident
+- During the late 70s and early 80s In the early days of the HOSTS.txt
+
+####How does it work?
+
+- The mappings of domain names to IP addresses are stored in a distributed network of servers. DNS is stored in a reverse tree like heirarchal structure. 
+- Another example of such a structure is when you look for a book in the library. If you told the librarian the authors name they will most likely first lookup the last name and then try and then sort for the first name. DNS works similarly but instead of one librarian imagine you had a network of librarians all focusing on specific sub sections of the titles.
+- Lets take an example. When you try to connect to example.com the first thing you computer does is talk to the DNS servers to ask it what the IP address for example.com is. When the DNS server sees this request it tries to resolve it from right to left. This means it will look up see which servers it knows that have information on .com domain names and pass the request on to those. 
+
+####The DNS centralised vs decentralised paradox
+<!-- - While TCP/IP is designed to be a decentralised system it is hard for  -->
+
 
 ### Types of TLDs
 
