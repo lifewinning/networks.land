@@ -53,3 +53,16 @@ The first iteration of this workshop ran for 3 days. Each day had a 2 hour sessi
  		 	
 
 ###Build a model based of the internet
+ - On the most basic layer , the internet is about objects and their relationship to each other and their environments. The focus of this session is to consolidate the observations from the previous day to see how those objects fit within the larger topology of the internet.
+- ####Questions
+	- What did you see? Discuss the observations students made in their logbooks.
+	- Could you differentiate betweeon internet and other infrastructure? If so, how?
+	- How is the infrastructure affected by the natural + human made landscape?
+- ####Activity 
+ 	- Use the information collected by participants to model the local infrastructure landscape.
+ 	- **THIS IS MORE SPECIFIC TO PA**
+ 	- #####Materials
+	 	- Network Blocks
+	 	- Print 2 copies of the images people took and place them on card stock
+	 	- Place the card stock on network blocks
+	 	- Connect them together. 	
