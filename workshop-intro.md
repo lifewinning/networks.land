@@ -52,4 +52,4 @@ The first iteration of this workshop ran for 3 days. Each day had a 2 hour sessi
  		
  		 	
 
-###Build a model based on what they see
+###Build a model based of the internet
