@@ -6,7 +6,7 @@
 
 - DNS allows us to translate computer IP addresses to human readable urls. Its easier to remember google.com than 139.130.4.5. When the Internet was small the network maintained a plain text file called HOSTS.txt	which was the master list of the mappings of hosts to IP addresses. As the network scaled this approach became impractical. The DNS protocol was created to deal with this problem.
 - Domain names make the internet a whole lot easier and a whole lot more fun, but the process that creates them entails a lot of weird complicated things
-- During the late 70s and early 80s In the early days of the HOSTS.txt
+- Paul Mockapetris designed the Domain Name System at the University of California, Irvine in 1983, and wrote the first implementation at the request of Jon Postel from ISI. The Internet Engineering Task Force published the original specifications in RFC 882 and RFC 883 in November 1983, which have remained the standard for naming Internet hosts
 
 ####How does it work?
 
@@ -14,7 +14,13 @@
 - Another example of such a structure is when you look for a book in the library. If you told the librarian the authors name they will most likely first lookup the last name and then try and then sort for the first name. DNS works similarly but instead of one librarian imagine you had a network of librarians all focusing on specific sub sections of the titles.
 - Lets take an example. When you try to connect to example.com the first thing you computer does is talk to the DNS servers to ask it what the IP address for example.com is. When the DNS server sees this request it tries to resolve it from right to left. This means it will look up see which servers it knows that have information on .com domain names and pass the request on to those. 
 
+
 ####The DNS centralised vs decentralised paradox
+- *Not sure how Galloway-esque we want to go here*
+###ICANN
+- The Internet Corporation for Assigned Names and Numbers is the body that is responsible for coordinating the maintenance and methodologies of the root name servers and associated databases of the internet.
+
+- They also are responsible for policy development for internationalization of the DNS system, introduction of new generic top-level domains (TLDs), and the operation of root name servers. The numbering facilities ICANN manages include the Internet Protocol address spaces for IPv4 and IPv6, and assignment of address blocks to regional Internet registries. 
 <!-- - While TCP/IP is designed to be a decentralised system it is hard for  -->
 
 
