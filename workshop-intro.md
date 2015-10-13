@@ -15,10 +15,11 @@ The first iteration of this workshop ran for 3 days. Each day had a 2 hour sessi
 
 ###Draw the internet
 - Start off with what learning from  participants what they think the internet looks like. Doing so can help understand the assumptions people are coming to this workshop with. It also helps draw a before and after comparison
+
+*I thought I knew what the internet was...*
+
 - ####Questions
 	- What is the internet?
-	- What do you use the internet for?
-	- What kind of internet do you have?
 - ####Activity
 	- In groups of 3-5, draw the Internet. This opening exercise is free-form: write or draw anything to best communicate what you think the Internet looks like. (10-15 minutes)
 	- Each group takes 5 minutes to present their drawings of the internet to the class. Put these drawings on display to refer back over the course of the workshop. (10-15 minutes)
@@ -26,20 +27,26 @@ The first iteration of this workshop ran for 3 days. Each day had a 2 hour sessi
 		- Roll Paper
 		- Colored pens + pencils
 		- Bulletin or display board + pins
+- ####Questions
+	- What do you use the internet for? *When you go to YouTube, where are you going?*
+	- What kind of internet do you have? *Internet you use vs internet of stuff*
 
 ###See the internet
 - In this session participants will go outside and find things. This is the part of the workshop where they will see the physical objects that make up the internet. It is a good idea to scout around before hand and find nearby places where there is a good variety of infrastructure. The list of objects falls under 6 broad categories.
-- ####Objects
- 	- Antennae
- 		- Cellphone and microwave towers are a common part of communications infrastructure. When you start looking for them you will notice them everywhere. 	
- 	- Fiber Optic Cables
- 	- Flags
- 	- Manhole Covers
- 	- Spray paint
- 	- Routers/Modems	
- 	- Wifi Networks	
- 	
 - At the start of the session introduce these objects and the role they play. How many do people recognise. How many did they think are part of the internet.
+- ####Objects
+
+  	- Routers/Modems	
+ 	- Wifi Networks		
+  	- Antennae
+ 		- Cellphone and microwave towers are a common part of communications infrastructure. When you start looking for them you will notice them everywhere.
+ 	- Fiber Optic Cables *Internet follows roads*
+ 	- Flags 
+ 	- Manhole Covers *Ask about telecoms*
+ 	- Spray paint *APWA Color code*
+
+ 	
+
  - ####Activity
  	- Now that you have provided a list of things that make up the internet. Take the participants outside to go see it for themselves. Get outside and observe the landscape.
  	- #####Materials
