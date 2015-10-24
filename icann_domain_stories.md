@@ -23,6 +23,11 @@
 ## .io
   - .io is one of the fastest-growing top-level domains on the internet, a particular favourite among start-ups and technology companies. It's also one of the most expensive. To the ear of the tech-savvy, “io” sounds like “input/output”, and it’s used for everything from business software and databases to bitcoin and blogs. But like all the other domains we’ve looked at, .io is also a place: a country-code top-level domain, or ccTLD, which refers to a particular place on the Earth's surface. In this case, that place is the British Indian Ocean Territory, a remote but strategically-important scattering of islands in the middle of the Indian Ocean, also known as the Chagos Archipelago. It consists of seven atolls and over 1,000 tiny islands, and not many people have ever heard of it.
 
+## .sy
+ - In July, the Free Syrian Army was formed by defecting officers from the Syrian Armed Forces, and a state of civil war has existed in the country ever since. Hundreds of thousands of Syrians have been killed or imprisoned on both sides, while almost three million have fled across the borders, one of the largest forced migrations since World War Two. 80,000 people are currently housed in the Zaatari refugee camp in Jordan alone.
+
+ - Alongside the humanitarian crisis, one of the ways in which the conflict has been visible to the outside world is through its effect on the internet both inside and outside the country. In 2012, as the rebel groups were making some of their largest early advances against the government, Syria disappeared from the internet almost entirely. On the 29th of November, almost all networks within Syria became inaccessible from the outside world - and what reports did leak out suggested that mobile and landline links inside the country were down as well.
+
 
 ##.george
  - registered by Wal Mart
@@ -32,4 +37,5 @@
  - Before .cat was available, and given the reluctance of certain Catalan institutions, companies, and people, to use .es, .ad, .fr, .it domains (depending on the state respectively) for their domains, alternatives emerged.[3] An example of this was the website for the city of Girona in Catalonia, which preferred to use a .gi domain ("http://www.ajuntament.gi/", the word "ajuntament" meaning both "city council" and "town hall"), even though .gi is the country code for Gibraltar, instead of the corresponding .es as a Spanish local authori
 
 
-
+## .tv
+ - The domain is currently operated by dotTV, a Verisign company; the Tuvalu government owns twenty percent of the company. In 1999, Tuvalu negotiated a contract leasing its Internet domain name ".tv" to a company formed by idealab for $50 million in royalties over a 12-year period.[1] The Tuvalu government receives a quarterly payment of US$1 million for use of the top-level domain. With the first $1 million payment the government received, Tuvalu was finally able to afford the $100,000 it cost to join the United Nations. Lou Kerner joined .tv as its CEO in January 2000, and the company began selling .tv domain names in April 2000. Verisign acquired .tv in December 2001
