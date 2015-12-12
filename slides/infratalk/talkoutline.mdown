@@ -1,0 +1,28 @@
+- How do you see the internet?
+	- intimately, black mirrors
+	- process by which you see it: abstracted, usually weird diagrams
+	- or really unfortunate metaphors
+- You see the internet because of infrastructure
+	- something designed to be ignored
+	- something we see when it breaks, not when we're just walking down the street
+- An exercise in seeing things in the background
+	- Police camera
+		- wireless bridges
+	- Cell towers
+		- increasingly how we see the internet
+		- sometimes diguised
+	- Distributed antenna systems
+	- Fiber cable markings
+	- Look at all we can see!
+- Why does this matter? 
+	- Who does the network serve? 
+		- Localized example of power serving power
+		- Example of infrastructure that militarizes a space
+	- Who owns the networks (infrastructure that privatizes a space)
+		- Google and Facebook are infrastructure companies
+		- Platform providers are deciding how you see the internet, also determining what you get to see
+		- internet.org/Facebook for every phone
+	- Shifting who owns the network (local mesh architecture, municipal internet)
+- Something about the internet is not working, on a lot of levels 
+	- It can be really overwhelming.
+	- Starting at the level of how we see, starting where you are, as a means to understand where we're at and through whom we speak
