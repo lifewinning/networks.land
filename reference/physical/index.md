@@ -9,11 +9,7 @@ This is intended as a broad overview of different types of physical objects and 
 
 # Routers
 
-For most people, this is where access to the internet starts. Well, technically it starts at a computer, tablet, or smart phone, and it starts with a wi-fi connection. 
-
-## Wifi
-
-**tk you should explain what the hell wifi is here**
+For most people, this is where access to the internet starts. Well, technically it starts at a computer, tablet, or smart phone, and it starts with a wi-fi connection. That wifi connection
 
 ## Activity: Get To Know Your Router
 
