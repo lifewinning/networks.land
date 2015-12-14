@@ -45,16 +45,36 @@ The internet actually *is* a series of tubes. While the Although most people's i
 
 Although cables form the foundation of most of the network, more and more of an average person's usage of the internet happens over a mobile connection. That connection travels via an antenna. There are a few different types of antennae that are good to look for if you're trying to look for the internet on the street. 
 
+All antenna-based wireless communication depends pretty heavily on what's called **line of sight**, which basically just means whether or not there's anything physically obstructing the signal from traveling between the two points. Obstructions can vary from a building to trees to even bad weather. 
+
 ## Types of Antennae
 
-- **Cellular antenna**: These are the types of antenna that most people are likely to interact with on a day-to-day basis. **TK TK how cell towers work**
+- **Cellular antenna** 
+	- Cell phones are basically screaming all the time. We can't hear them screaming, because they scream in radio waves, but they're basically constantly announcing their existence to other antennae via these radio signals. They're not saying all that much most of the time--more or less just "Hi! I'm here! I'm looking for a network to connect to!". If the phone is near to a cellular tower with antennae that connect to that phone's particular carrier, it connects to the network via that antenna. 
+	- If the phone moves away from that antennae or gets out of range of it, that's OK--the phone is still screaming. It never stops screaming. The nextnearest antenna will pick up its signal. 
+	- After someone dials a number or opens an app on a phone, the cell phone sends a signal out to the nearest tower with the request for that call or that app (it's still screaming "Hi! I'm here" but now also screaming "") . 
+	- The cellular antenna recieves the request and sends it back into a fiber optic cable network, routing it through a much larger network (either of more cables or microwave antennae) and to the right server that can process the request (e.g., a call switching station or a Facebook data center).
+	- That server sends the requested data back through the network to the antenna *nearest* to the phone and that antenna sends the data back to the phone.
 
-- **Microwave antenna**: These are used for what's called **point-to-point** communication, which works kind of like a relay system. When one antenna in the microwave network receives a signal, it passes that signal on to the next nearest antenna, which 
+- **Microwave antenna**: 
+	- These are used for what's called **point-to-point** communication, which works like a relay system. 
+	- When one antenna in the microwave network receives a signal, it passes that signal on to the next nearest antenna, which then passes the signal on to the *next* nearest antenna, and so on until it reaches its destination. 
 
-## Where Antennae Live
+## Where Antennae Live 
 
-## How to Spot Antennae
+- Because of that line of sight problem, most antennae are placed pretty high up above the ground to avoid physical obstructions. 
+- Companies that build and maintain towers (sometimes the network provider but sometimes a contractor who builds out the towers for them) have to go to the Federal Communications Commission and file an Antenna Structure Registration for the tower or structure with the antennae attached to it. They also have to file licenses for the different kinds of antennae that the tower has (sometimes a tower will have more than one type of antenna on it doing different things).
+- In cities, a lot of antennae just end up on rooftops and aren't always easy to see but are generally pretty unobtrusive. In more rural areas or along highways, they end up sometimes on top of mountains or in super-isolated areas. 
+- Sometimes people (especially in rural areas like forests) think cell towers are ugly or distracting from the local nature, so companies will disguise cell towers to look like different kinds of natural objects like trees and cacti. 
 
 ***
 
-# Internet Exchanges and Data Centers
+# Internet Exchanges 
+
+In both the cables and the antennae examples, a person's request for data sort of just disappears into "the network" and data comes back out of "the network" to that person's device. The actual path that it takes and where it goes in that network can vary a lot. 
+
+
+***
+
+# Data Centers
+
