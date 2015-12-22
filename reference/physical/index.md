@@ -1,7 +1,5 @@
----
-layout: default
-title:  "Transport:The Physical Layer"
----
+#Transport:The Physical Layer
+
 
 This is intended as a broad overview of different types of physical objects and infrastructure that make up the internet. There are longer, more in-depth overviews of each of these infrastructural elements, but this is mainly for having a big-picture view of how they work. For more information on different companies and who owns some of this stuff, refer to the section "Who Owns The Internet?" 
 
