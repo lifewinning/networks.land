@@ -1,7 +1,5 @@
 # What Is The Internet Made Of?
 
-A 3-part workshop introducing the physical and 
-
 ## Overall Objectives:
 
 - Understand that the internet is *made up of physical objects in the world*, and be able to identify those objects in the world
