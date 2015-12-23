@@ -10,7 +10,7 @@
 - ####Presentation
 	- Talk about how packets are sent across the network. What the stack is and what role different parts of the stack play.
 
-		 	
+
  - ####Activity
  	- Packet traffic jigsaw puzzle
  	- #####Materials
