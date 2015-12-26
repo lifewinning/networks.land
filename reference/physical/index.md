@@ -1,15 +1,15 @@
-#Transport:The Physical Layer
+---
+layout: post
+title:  "Objects: The Physical Layer"
+---
 
-
-This is intended as a broad overview of different types of physical objects and infrastructure that make up the internet. There are longer, more in-depth overviews of each of these infrastructural elements, but this is mainly for having a big-picture view of how they work. For more information on different companies and who owns some of this stuff, refer to the section "Who Owns The Internet?" 
+This is intended as a broad overview of different types of physical objects and infrastructure that make up the internet. There are longer, more in-depth overviews of each of these infrastructural elements, but this is mainly for having a big-picture view of how they work. For more information on different companies and who owns some of this stuff, refer to section on **Who Owns The Internet?** 
 
 ***
 
 # Routers
 
-For most people, this is where access to the internet starts. Well, technically it starts at a computer, tablet, or smart phone, and it starts with a wi-fi connection. Wifi signals travel through the air, usually between a device (like a computer or a phone) and a router. Traditionally, that router connects back to the internet via an Ethernet cable. Sometimes that Ethernet cable is connected to a modem that connects either to what would be a TV cable (coaxial) or a phone line. 
-
-**tk tk I don't actually own a router because I am bad and should feel bad, will go look at one to better document this**
+For most people, this is where access to the internet starts. Well, technically it starts at a computer, tablet, or smart phone, and it starts with a wi-fi connection. Wifi signals travel through the air, usually between a device (like a computer or a phone) and a router. That router is connected to the internet via a modem, which connects either via what would be a TV cable (coaxial) or a phone line.
 
 ***
 
@@ -69,10 +69,30 @@ All antenna-based wireless communication depends pretty heavily on what's called
 
 # Internet Exchanges 
 
-In both the cables and the antennae examples, a person's request for data sort of just disappears into "the network" and data comes back out of "the network" to that person's device. The actual path that it takes and where it goes in that network can vary a lot. 
+In both the cables and the antennae examples, a person's request for data sort of just disappears into "the network" and data comes back out of "the network" to that person's device. The actual path that it takes and where it goes in that network can vary a lot (see **Packets** for a more granular look at how that happens), but at some point that path will go through an *internet exchange*. These are also sometimes called *carrier hotels*. 
 
+Imagine someone sitting at home trying to watch something on Netflix. They click on a movie they want to watch, and that click sends a request to Netflix's servers saying "Hey, bring me this movie" The person watching Netflix is connected to the internet via Company A, and Netflix is connected to the internet via Company B. At some point, that request for a movie has to move from the Company A network to the Company B network. Internet exchanges are where that happens. Racks and racks of switching equipment and cables run through these buildings.
+
+The main difference between an internet exchange and a data center is that a data center is where things are stored, and internet exchanges are where things are moved around. If we use the old "information superhighway" metaphor for the internet, data centers are garages and internet exchanges are highway interchanges.
+
+## Where Internet Exchanges Live
+
+You can look up the locations of a lot of these buildings at Telegeography's [Internet Exchange Map](http://internetexchangemap.com). Seeing where internet exchanges are densely concentrated and where there aren't many at all is a pretty useful way of figuring out which places in the world have limited telecommunications infrastructure--or, at least, limited cable network infrastructure.
+
+In general, these places are not open for tours, but if you really want to try to get inside, it never hurts to try contacting the carrier hotel you're trying to get into!
 
 ***
 
 # Data Centers
 
+Data centers are basically really big buildings full of servers and routing equipment, that host lots of different websites and services that make up the internet. Some really big companies, like Google and Facebook, build their own data centers just for running their services and applications, but a lot of smaller companies will just run their websites on servers in what are known as *colocation* data centers--as in, servers are location with a bunch of other servers. 
+
+## Where Data Centers Live
+
+Data centers tend to end up clustered in particular regions in the world, for a lot of different reasons. Here are some of them: 
+
+- **Cheap power**: Data centers use a lot of electricity (for keeping machines running and for maintaining an ideal temperature for machines), and people who build and run data centers are always looking for places where they won't have to pay as much for that electricity. 
+
+- **Access to infrastructure**: Certain parts of the country will have greater concentrations of fiber optic cable than others. High concentrations are sometimes called *internet backbone*. Being near to this infrastructure means that the time that it takes for data to travel through the network (also called *latency*) is slightly less than it might be someplace else.
+
+- **Taxes**: Sometimes city and state governments really, really want data centers to be built in their area. Mostly, this is in the hope of being able to take in tax revenue from the data center or the hope of attracting more high-tech companies and jobs. So the municipality will offer tax incentives and benefits to encourage companies to build and run data centers there. Although data centers do create some jobs, usually it's less than a hundred or so and often require specialized skills that might lead a company running a data center to bring in an outsider than actually hire someone who lives in the city. 
