@@ -1,0 +1,41 @@
+## Day 1: Field Expedition
+
+- Introductions: ask students how they use the internet, what kind of internet they have, what they think the internet is
+- Let's go "see the internet"
+	- Cable landing and switching station (uncertain, thinking about children + cars + waivers)
+	- Microwave towers
+	- Cable markings
+	- Utility locating
+	- Flags
+	- Wifi sniffing//in a way that isn't totally lame
+	- This is probably out of scope but//satellite receivers//idk
+
+- **Materials Needed**
+	- Not sure if we need participants to take notes/log things they see in a worksheet or something or of we should just take responsibility for documenting things. Might be a useful thing for getting them to document infrastructure stuff on their own outside of the workshop? (i.e. "draw a picture of the internet in your house")
+
+## Day 2: Modeling
+
+- So we've seen a bunch of pieces of the internet out in the world. How do you think they fit together?
+- What would your internet look like? 
+- Introduce geoboard and parameters
+
+- **Materials Needed**
+	- The board itself, different things to place on the board
+	- We should probably provide a key that breaks down what each element of the geoboard actually represents? Probably something like a poster board
+
+## Day 3: More Modeling // Gifts
+
+- If there's still interest/enthusiasm for the geoboard, keep working with that for ~30-45 minutes
+- Veeeeery short/basic walkthrough of some command line tricks to demonstrate how that routing stuff works IRL? (i.e. we traceroute some things on different devices--wireless in the classroom, wifi from tethered phones on different carriers--to see if/how routing works differently with different networks?) 
+- Give them copies of the zine of things we saw in the area on day 1
+- Feedback time: what do you still want to know? how can we be helpful? IDK IDK. 
+
+- **Materials Needed**
+	- we're going to make a zine! Half-letter laserjet thing, ideally could be roughly templated out in advance so we'd just be dropping photos and text from the day
+	- should the zine include a map? I always think things should include a map, but that's me. 
+	- this could either be folded into the zine or made as a separate folded handout but it would probably be good to point them to further reference material.
+
+# Documentation Needs:
+
+- I am ambivalent on particular methods for documenting. Filming seems like a cool idea for the geoboard because we could do some fun time-lapse stuff with it, but otherwise just making sure someone's taking photos some of the time. 
+- Reminder that we'll probably need to do something with waivers w/r/t using images of children in any public-facing material.
