@@ -1,15 +1,71 @@
----
+		---
 layout: post
 title:  "Packets"
 ---
 
-[Step1](http://networks.land/packets/Step1.html)
+<!--[Step1](http://networks.land/packets/Step1.html)-->
 
-Packets are the basic unit of transport of the internet.
+##What is a packet?
+
+Packets are the basic unit of transport of digital communications networks. One could describe them as follows:
+
+```
+A sequence of bytes (1's and 0's) that contain a source address, destination address and payload. 
+```
+
+ What this means is that all the information we send each other over the network is broken down into discrete units.
+That information can be an email, a tweet, an image or even a video you want to stream. 
+
+Thanks to Claude Shannon, the creator of Information theory, computers are capable of splitting information into many small packets and more importantly capable of reconstructing the original information from those packets, like a jigsaw puzzle.
+
+Computer networks and information sharing the way we understand it is possible becuase of this process.
+
+Imagine a scenario in which you live in America and  wanted to transfer an image you've clicked with your smart phone to a friend in Japan.
+
+These days images are typically ~ 1MB in size. That means there are 1 million 1's and 0's (that make up the image) that need to be transferred from the US to Japan.
+Since the distance between the US and Japan is significant the likelihood that information will get corrupted along the way is significant. If you tried to send this image in one chunk any time you lost information during transfer you would have to re-send the entire image.
+
+To overcome this problem, modern communications networks employ packet switching. **Find good PS definition**
+
+With packet switching that original image is split up into many tiny chunks and sent to the receiver over many different routes.
+Once all the information is picked up at the receiver it reconstructed to display the original information.
+
+Going back to the defintion we wrote for a packet in our example the sender address will be the US computers IP address, the receiver address will be the Japan computers IP address and the payload will be a small part of the original image.
+
+
+<!--
+
+As you can imagine this process is pretty inefficient and there is a lot of room for error which also makes the process slow.
+
+
+The first place this technique was employed was the telephone system and it is not used in all modern communications networks.
+
 They can be made up of one or more protocols and are sent from one computer to another through routes.
+
 When you type a URL in the address bar of your browser, you are essentially making a request to a remote computer asking it to send you some information that is stored on it.
 
-A basic and generic definition of packets: A sequence of bytes (1's and 0's) that contain a source address, destination address and payload. This general description is true for most commonly used packet formats and certainly those used on the internet.
+
+A basic and generic definition of packets: -->
+
+
+This general description is true for most commonly used packet formats and certainly those used on the 
+internet.
+
+
+##The OSI Model
+
+Getting data from one computer to another over the internet is a pretty complicated thing to do, (even though we take it for granted).
+To reduce the complexity - or at least seperate out the different actors and roles they play - the OSI model was created.
+
+
+The details of the OSI model are beyond the scope of what we're concerned with but its worth mentioning becuase this model is the map that helps us navigate what the different moving parts of the network are. 
+
+Starting at the physical layer and how the information is physically transferred via electricity or radio waves from one device to another. All the way up to the application layer, which is how we actually interact with the other devices on the network. 
+
+Think about checking your email or social media, working on a document that is in the cloud or just browsing or reading the news. All of these activities require seamless interaction between a variety of computers of different that play different roles. The OSI model defines those roles. 
+
+
+##Encapsulation
 
 An important thing to keep in mind at the this point is that the payload of one packet can be a whole other packet. If you're scratching your head right now, I dont blame you but *encapsulation* (putting one packet inside another) is a pretty crucial part of how computer networks work.
 
@@ -74,11 +130,9 @@ Now lets compare this to what it would look like if Alice was to send Bob an E-m
 
 
 
-
-This can be broken down further
-
 - Protocols
+	- 
 	-  TCP/IP
-	- 	DNS
-	- 	
+	-  DNS
+	-  HTTP
 

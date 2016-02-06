@@ -15,7 +15,7 @@ These activities are broken into 3 sections, one for each objective. We've gener
 
 ### Part 1: Let's See The Internet
 
-*Objective: Understand that the internet is **made up of physical objects in the world**, and be able to identify those objects in the world*
+<!--*Objective: Understand that the internet is **made up of physical objects in the world**, and be able to identify those objects in the world*
 
 **Materials**: 
 
@@ -42,7 +42,7 @@ These activities are broken into 3 sections, one for each objective. We've gener
 - **Alternative: Assignment** If you're in an area that doesn't have many cool signs of internet infrastructure, ask students to go home and look for some examples at or around their home, or on their way to school the next day. If they can take pictures of what they see (with a phone or their own camera), bring them in. If not, take notes about things you see on the handouts given. Students should be prepared to talk about what they saw the next day. Instructor should be prepared to do the same thing. 
 
 ### Part 2: Let's Build the Internet
-
+<!--
 *Objective: Understand how different objects that make up the internet connect to each other and that the internet is a **network of networks***
 
 **Materials**
@@ -68,7 +68,7 @@ These activities are broken into 3 sections, one for each objective. We've gener
 
 ### Part 3: Let's *Be* The Internet
 
-*Objective: Understand how data is transmitted through that network of networks to your computer via **packet switching*** and understand the components of the HTTP header. 
+<!--*Objective: Understand how data is transmitted through that network of networks to your computer via **packet switching*** and understand the components of the HTTP header. 
 
 **Materials**
 
