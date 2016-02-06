@@ -1,4 +1,8 @@
-
+---
+layout: post
+title:  "Highlights of Domain Name Politics"
+category: reference
+---
 
 ##.ly
  -	**Deception**

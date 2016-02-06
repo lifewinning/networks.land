@@ -1,4 +1,8 @@
-## Part 1: Let's See The Internet
+---
+layout: page
+title:  Introduction to Seeing the Internet
+category: activities
+---
 
 *Objective: Understand that the internet is **made up of physical objects in the world**, and be able to identify those objects in the world*
 

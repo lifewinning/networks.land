@@ -1,9 +1,10 @@
 # Site settings
 title: networks.land
-description: Keeping notes on network pedagogy or something.
+description: Tools and activities for understanding the internet from the ground up.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://networks.land" # the base hostname & protocol for your site
 
 
 # Build settings
 markdown: kramdown
+relative_permalinks: false

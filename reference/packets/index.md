@@ -1,6 +1,7 @@
-		---
+---
 layout: post
 title:  "Packets"
+category: reference
 ---
 
 <!--[Step1](http://networks.land/packets/Step1.html)-->
