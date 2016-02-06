@@ -1,11 +1,23 @@
-# Domains! They Are A Thing.
+---
+layout: post
+title:  "Domains"
+---
 
-## Types of Top-Level Domains
+# What's in a domain name?
 
-- "original" TLDs
-	- domains created before ICANN (e.g. .com, .net, .mil)
+# Types of Top-Level Domains
 
-- ccTLD
+- **"original" TLDs**: These are the domains created before the introduction of ICANN. They are the oldest of the top-level domains. 
+
+| **domain** | **use-case** | **who manages it**|
+|-----------------------------------------------|
+|.com | | |
+|.net | | |
+|.org| | |
+|.edu| | |  
+| .mil| | |
+
+- **Country-Code TLDs (ccTLD)**
 	- Definitions/Types
 		- traditionally use 2 or 3-letter country codes for domains
 			- 3-letter codes are reserved for future use but not all are currently in use (which is why no one can get the .and TLD)
@@ -25,7 +37,7 @@
 		- the Internet Computer Bureau example--countries with complicated political status who continue to be unable to see the benefits of their domains
 		- what happens when countries come apart? the .yu example when the former Yugoslavia fell apart
 		- cultural/political clashes (vb.ly indcident and decency laws, Turkmenistan domains)
-- gTLD
+- **Generic Top-Level Domain gTLD**
 	- Definitions/Types
 		- sponsored gTLD: represents a concept or term, non-geographic  
 		- geographic gTLD

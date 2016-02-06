@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Objects: The Physical Layer"
+title:  "The Physical Internet"
 ---
 
 This is intended as a broad overview of different types of physical objects and infrastructure that make up the internet. There are longer, more in-depth overviews of each of these infrastructural elements, but this is mainly for having a big-picture view of how they work. For more information on different companies and who owns some of this stuff, refer to section on **Who Owns The Internet?** 
@@ -15,7 +15,7 @@ For most people, this is where access to the internet starts. Well, technically 
 
 # Cables
 
-The internet actually *is* a series of tubes. While the Although most people's interactions with the internet happen over a wireless connection, that connection always goes back to a wire. Let's say you're connecting via a wifi connection from a router. That router is wired into a cable network. If you're connected to the internet via a smart phone using a data plan, then the wireless signal is coming from a cell tower. Cell towers are also wired into a cable network, but it's usually made of fiber-optic cable. In both cases, those wired connections on the router and the cell tower send your internet activity back into a global network made mostly of cable. 
+The internet actually *is* a series of tubes. Although most people's interactions with the internet happen over a wireless connection, that connection always goes back to a wire. Let's say you're connecting via a wifi connection from a router. That router is wired into a cable network. If you're connected to the internet via a smart phone using a data plan, then the wireless signal is coming from a cell tower. Cell towers are also wired into a cable network, but it's usually made of fiber-optic cable. In both cases, those wired connections on the router and the cell tower send your internet activity back into a global network made mostly of cable. 
 
 ## Types of Cable
 
@@ -31,7 +31,7 @@ The internet actually *is* a series of tubes. While the Although most people's i
  
 - **Below the Ground**: A lot of cables are buried underground in ducts, which means they aren't always that easy to see. But there are a lot of things that happen just above buried cables that can help you find it.  
 	- **Points of Entry**: Since repairpeople have to be able to access cables, there are a few things that are pretty easy to spot on the street that can help you find the internet. 
-		- **Junction Boxes**: These are basically the block-level switching points for home cable connections. Within these boxes are thousands of wires and cables for telephone, television, and internet, all coming from nearby buildings. In the junction box, those cables get connected to terminals that are themselves spliced into the underground cable network, sending whatever data you've transmitted via a wifi connection to the global internet network
+		- **Junction Boxes**: These are basically the block-level switching points for home cable connections. Within these boxes are thousands of wires and cables for telephone, television, and internet, all coming from nearby buildings. In the junction box, those cables get connected to terminals that are themselves spliced into the underground cable network, sending whatever data you've transmitted via a wifi connection to the global internet network.
 		- **Manhole Covers**: These are entry points to underground ducts. The pattern and design or name of the company listed on the manhole cover can give some indication of what's buried underneath or who owns whatever is buried there. Typical generic manholes in the U.S. feature a hexagonal pattern and either a bell logo or the logo of some other internet company in the center. Sometimes these manholes will also just say something super-generic, like "Communications."  
 	- **Utility Markers**: These different markers and labels are usually meant to be temporary indicators of buried utilities, not permanent labels. Whenever construction companies or city workers have to cut open roads or fields for construction, they have to call a central service (811) so they can find out what's already buried in the spot they're going to dig up. 811 tells all the utilities and companies that have things buried underground to go label their things before the new construction work happens. That way, the people doing the construction don't end up knocking out a power line or your internet connection by mistake. All of these markings are color-coded for specific kinds of utilities. Orange is for all telecommunications. 
 		- **Cable Posts or Flags**: These are not commonly seen in dense cities, but they are very common along highways and railroads and more suburban areas. They often have the name of a company (maybe who owns the cable or sometimes which contractor located the cable for them) and a phone number (either 811, the number of the locating company, or the number of the cable owner).
