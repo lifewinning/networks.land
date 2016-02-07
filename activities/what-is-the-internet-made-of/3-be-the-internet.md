@@ -1,4 +1,8 @@
-## Part 3: Let's *Be* The Internet
+---
+layout: page
+title: Packet Switching Relay Race
+category: activities
+---
 
 *Objective: Understand how data is transmitted through that network of networks to your computer via **packet switching*** and understand the components of the HTTP header. 
 

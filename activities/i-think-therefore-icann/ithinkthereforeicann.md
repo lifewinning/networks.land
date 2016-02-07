@@ -1,4 +1,8 @@
-# I Think Therefore ICANN: A Game About Top-Level Domains
+---
+layout: page
+title: I Think Therefore ICANN (A Roleplaying Game About Domain Names)
+category: activities
+---
 
 ### Gameplay notes
 

@@ -1,0 +1,5 @@
+{% for p in site.pages %}
+	{% if p.category == page.header %}
+	<p><a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></p>
+	{% endif %}
+{% endfor %}

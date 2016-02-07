@@ -1,4 +1,8 @@
-## Part 2: Let's Build the Internet
+---
+layout: page
+title: Let's Build The Internet!
+category: activities
+---
 
 *Objective: Understand how different objects that make up the internet connect to each other and that the internet is a **network of networks***
 

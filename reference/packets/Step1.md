@@ -1,9 +1,3 @@
----
-layout: default
-title:  "Step 1"
----
-
-
 ####Disclaimer
 *This post is a pretty incoherent right now mainly due to the fact that these notes have been made on the various flights and trains I have taken over the past week and I am writing it up after two nights of very little sleep. Apologies to anyone who reads it before I get to clean it up.*
 

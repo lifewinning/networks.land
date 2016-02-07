@@ -1,6 +1,7 @@
-		---
+---
 layout: post
 title:  "Packets"
+category: reference
 ---
 
 <!--[Step1](http://networks.land/packets/Step1.html)-->
@@ -13,7 +14,7 @@ Packets are the basic unit of transport of digital communications networks. One 
 A sequence of bytes (1's and 0's) that contain a source address, destination address and payload. 
 ```
 
- What this means is that all the information we send each other over the network is broken down into discrete units.
+What this means is that all the information we send each other over the network is broken down into discrete units.
 That information can be an email, a tweet, an image or even a video you want to stream. 
 
 Thanks to Claude Shannon, the creator of Information theory, computers are capable of splitting information into many small packets and more importantly capable of reconstructing the original information from those packets, like a jigsaw puzzle.
