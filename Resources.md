@@ -5,12 +5,19 @@ permalink: /resources/
 category: header
 ---
 
-[How It's Made Fiber Optics](https://www.youtube.com/watch?v=u1DRrAhQJtM)
+##Articles and Essays
 
-[Hello P5](http://hello.p5js.org/)
+[How DNS Works Guide from DNSimple](https://howdns.works/)
 
-[Internet history references](http://worrydream.com/refs/)
+[James Bridle's Citizen Ex essays on country-code domains](http://citizen-ex.com/stories)
 
-[The Post Its](https://dl.dropboxusercontent.com/u/1108171/Photo%20Jul%2026%2C%2015%3A06%3A52.jpg)
+[All of Ingrid's *Beneath the Cloud* stories for *The Atlantic*](http://theatlantic.com/author/ingrid-burrington/)
 
-[Internet History,Technology and Security ](https://www.coursera.org/learn/internet-history/)
+##Links to More Links
+
+[A massive dump of interesting PDFs related to internet history from Brett Victor](http://worrydream.com/refs/)
+
+## Videos and Things We Just Thought Were Fun
+
+[How It's Made: Fiber Optics](https://www.youtube.com/watch?v=u1DRrAhQJtM)
+

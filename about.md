@@ -5,4 +5,4 @@ permalink: /about/
 category: header
 ---
 
-This is the place where @lifewinning and @samatt are trying to figure out stuff about the internet
+We need to write real copy here, I am in unbelievable amounts of pain right now so it will have to wait. 
