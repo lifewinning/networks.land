@@ -1,5 +1,5 @@
 # Site settings
-title: networks.land
+title: Networks Land
 description: Tools and activities for understanding the internet from the ground up.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://networks.land" # the base hostname & protocol for your site
