@@ -55,3 +55,9 @@ header
 
 I am undecided right now whether we need sub-sub pages (e.g., should all the "what is the internet made of" lesson plans actually be broken out?)
 
+
+
+for batching image resize with imagemagick
+
+<!--`for file in *.jpg; do convert $file -resize 1024 ../images-ouput/$file; done`-->
+`python convert.py` for batch converting images in `non-web-stuff/images-raw`

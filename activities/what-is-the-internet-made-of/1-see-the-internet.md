@@ -5,6 +5,7 @@ category: activities
 ---
 
 *Objective: Understand that the internet is **made up of physical objects in the world**, and be able to identify those objects in the world*
+![point-arena-5](http://networks.land/assets/point-arena-5.JPG)
 
 **Materials**: 
 
@@ -14,6 +15,8 @@ category: activities
 - Handouts detailing different examples of internet infrastructure
 
 **Activities**
+
+![ms-51](http://networks.land/assets/ms51-2.JPG)
 
 - Ask students the following questions about the internet. Write some key words from their answers on a sheet of 18x24 paper. (5-10 minutes)
 	- What is the internet?
@@ -25,6 +28,9 @@ category: activities
 - Each group takes 3-5 minutes to present their drawings of the internet to the class. Hang the drawings on the wall. (15-20 minutes) 
 
 - Give a short presentation on the different real-world objects that make up the internet (routers, cables, antennae, data centers, and more), showing pictures and examples of things that students might encounter out on the street or in their homes if they went looking for the internet. Give them handouts with a breakdown of these different objects to look for (10 minutes)
+
+![point-arena-3](http://networks.land/assets/point-arena-3.JPG)
+
 
 - **Optional: Field Trip!** Take the students for a walk to look for some examples of the internet that they might run into on the street. The success of this activity kind of depends on whether the area you're in has lots of relevant things to look at/for, scouting out the workshop location is kind of crucial here (30-45 minutes).
 
