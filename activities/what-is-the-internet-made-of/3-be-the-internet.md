@@ -8,7 +8,7 @@ So this game is pretty silly, but surprisingly fun?
 
 *Objective: Understand how data is transmitted through that network of networks to your computer via **packet switching*** and understand the components of the HTTP header. 
 
-**Materials**
+### Materials
 
 - Packet switching relay kit
 	- Two sets of at least 24 different sized envelopes (your mileage may vary)
@@ -16,7 +16,7 @@ So this game is pretty silly, but surprisingly fun?
 		- We bought blank 12-piece puzzles [here](http://www.amazon.com/dp/B00598K8H8/ref=cm_sw_r_tw_dp_q49Twb0ZD0PMQ)
 - 3 tables
 
-**Activities**
+### Activities
 
 - Look at an example of a traceroute to show how visiting a website actually involves "hopping" across servers throughout the network. But the traceroute example simplifies things a little bit--when you open a webpage, it's not exactly one thing that's loading on the screen, it's a whole bunch of little things that are coming from lots of different places and they all take different paths to your computer. (10-15 minutes)
 

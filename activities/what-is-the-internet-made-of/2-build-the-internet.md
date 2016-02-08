@@ -8,7 +8,7 @@ This is probably the most fun but also right now the hardest activity to reprodu
 
 *Objective: Understand how different objects that make up the internet connect to each other and that the internet is a **network of networks***
 
-###Materials
+### Materials
 
 - Network modeling kit:
 	- Set of **modular blocks** that can be used as "nodes" of the network
@@ -22,7 +22,7 @@ This is probably the most fun but also right now the hardest activity to reprodu
 	- Material to connect the blocks together (string, pipe cleaners, straws--whatever works for your version!)
 	- Tape for affixing the cards to things as needed
 
-###Activities
+### Activities
 
 - Break students into small groups and give them each a set of blocks, cables, and images from the network modeling kit. Their objective is to take the different types of objects in the kit and make a model of how the different objects fit together to send a message from one personal computer to another.
 

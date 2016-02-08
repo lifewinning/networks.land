@@ -8,7 +8,7 @@ This is an outline of an activity we usually do at the beginning of any of our w
 
 *Objective: Understand that the internet is **made up of physical objects in the world**, and be able to identify those objects in the world*
 
-###Materials
+### Materials
 
 - pad of 18x24 drawing paper (newsprint or butcher paper is fine)
 - Markers
@@ -17,7 +17,7 @@ This is an outline of an activity we usually do at the beginning of any of our w
 - [Handout](/handouts/internet-scavenger-hunt.pdf) for writing down and looking for different types and signifiers of internet infrastructure. 
 - **Note about both handouts**: you might not actually see each of these things in your environment--cities don't really have fiber posts, for example.Just use the ones you need!
 
-###Activities
+### Activities
 
 - Ask students the following questions about the internet (or ask them to write down their answers). (5-10 minutes)
 	- What is the internet?
