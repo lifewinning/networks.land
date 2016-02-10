@@ -1,4 +1,4 @@
-{% for p in site.pages %}
+{% for p in site.pages order: descending %}
 	{% if p.category == page.header %}
 	<p><a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></p>
 	{% endif %}

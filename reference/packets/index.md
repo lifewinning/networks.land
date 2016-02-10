@@ -6,7 +6,7 @@ category: reference
 
 <!--[Step1](http://networks.land/packets/Step1.html)-->
 
-##What is a packet?
+## What is a packet?
 
 Packets are the basic unit of transport of digital communications networks. One could describe them as follows:
 
@@ -53,7 +53,7 @@ This general description is true for most commonly used packet formats and certa
 internet.
 
 
-##The OSI Model
+## The OSI Model
 
 Getting data from one computer to another over the internet is a pretty complicated thing to do, (even though we take it for granted).
 To reduce the complexity - or at least seperate out the different actors and roles they play - the OSI model was created.
@@ -66,7 +66,7 @@ Starting at the physical layer and how the information is physically transferred
 Think about checking your email or social media, working on a document that is in the cloud or just browsing or reading the news. All of these activities require seamless interaction between a variety of computers of different that play different roles. The OSI model defines those roles. 
 
 
-##Encapsulation
+## Encapsulation
 
 An important thing to keep in mind at the this point is that the payload of one packet can be a whole other packet. If you're scratching your head right now, I dont blame you but *encapsulation* (putting one packet inside another) is a pretty crucial part of how computer networks work.
 

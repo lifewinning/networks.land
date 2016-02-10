@@ -8,6 +8,8 @@ This is a very didactic, very silly game for understanding the weird politics th
 
 Domain names are where the politics, poetics, and peculiarities of the web express themselves in often the most direct and clever ways. But even the most active domain name hoarder might not really understand how the Domain Name System works, why certain TLDs exist, and how they at times become an arena where real-world geopolitical conflicts play out online. This game is meant to walk players through some of those realities. 
 
+**A Word Of Caution**: We are bad at math! And still trying different variations on points allocation. If you find a better ratio for gameplay please let us know! We would love to hear from anyone who actually ends up using and playing this game.
+
 Many thanks to the [Radical Networks](http://radicalnetworks.org) conference for letting us run a test of this game when we were initially working on it. 
 
 ### Materials
@@ -16,50 +18,27 @@ Many thanks to the [Radical Networks](http://radicalnetworks.org) conference for
 - Player [scorecards](/handouts/tld-scorecards.pdf). Also should be printed in colors that correspond to the playing cards. (Note the PDF has two scorecards doubled up on single pages; if you cut the pieces of paper in half when you print them you have *two sets of scorecards, waowwwwww*)
 - A six-sided die
 
-### Assumptions/Notes
-This takes place in a semi-fictional blank slate--none of the countries are real, assumes completely open namespace
+### How To Play
 
-### Gameplay
+- This takes place in a semi-fictional blank slate--none of the countries are real, assumes completely open namespace.
 
-- Players are assigned a type of TLD owner--ccTLD, gTLD, or secessionist region seeking a gTLD. Only one player can play as a scessionist region. 
+- Players are assigned a type of TLD owner--ccTLD, gTLD, or secessionist region seeking a gTLD. Only one player can play as a scessionist region. Each player can come up with a name of their country and their TLD. (This has no impact on game mechanics, it's just more fun that way.)
 
-- All players begin with a fixed number of points, determined by dice throws. All players have the baseline goal of maintaining 500 points to achieve their gameplay goals. For ccTLDs that means political stability, for gTLDs that means enough points to buy a new domain, and for secessionist regions that means enough political support to obtain their own gTLD. During each round, players select cards that present scenarios that can help them increase their points or will lead them to lose points. 
+- All players begin with an initial number of points, determined by throwing a dice and multiplying that number by 100.
 
-- ccTLD and gTLD players both begin holding 1 TLD. They receive **scarcity bonus** points during each round, the amount of which is determined by a dice throw. These are a reflection of the fact that, as less and less domains are available, certain domains become more acceptable to use or commonly used. gTLDs can buy more TLDs with points over the course of the game. 
+- All players have the baseline goal of **maintaining a minimum of 500 points** to achieve their gameplay goals. For ccTLDs that means political stability, for gTLDs that means enough points to buy a new domain, and for secessionist regions that means enough political support to obtain their own gTLD. During each round, players select cards that present scenarios that can help them increase their points or will lead them to lose points. 
 
-- Secessionists have only one goal in terms of the game: to get a domain. Once that's achieved, they transition to playing as a gTLD (rather than a ccTLD, as certain governmental secnarios don't really apply to them).  
+- ccTLD and gTLD players both begin holding 1 TLD. They receive **scarcity bonus** points during each round, the amount of which is determined by throwing a dice and multiplying by 10. Scarcity points are a reflection of the fact that, as less and less domains are available, certain domains become more acceptable to use or more commonly used (for example, when Senator Ted Cruz was unable to obtain [tedcruz.com](http://tedcruz.com) and had to use [tedcruz.org](http://tedcruz.org)). 
+
+- gTLDs can buy more TLDs with points over the course of the game. Again, they need 500 points to do this. Each TLD will receive a different scarcity bonus value. 
+
+- Secessionists have only one goal in terms of the game: to get a domain. Once that's achieved, they transition to playing as a gTLD (rather than a ccTLD, as certain governmental secnarios don't really apply to them and you know, maybe they want to buy some [internationalized TLDs](http://newgtlds.icann.org/en/about/idns) in their native language).  
+
+- Each round, players select one card from their particular character's card set that will either arbitrarily assign them more points, make them lose points, or force them to make a decision that may affect the number of points they have. Cards are explained in further detail below. 
+
+- Don't explain what the cards actually mean or represent until a player pulls the card. At that point, refer to the real-world examples documented below to explain that particular card's scenario. Our examples are, again, far from exhaustive; most of the best ones we borrowed from James Bridle's [Citizen Ex](http://citizen-ex.com/stories) series. Thanks for being the best, James!
 
 - Realistically, you won't actually ever get through that many rounds once you've gone through the different scenario cards, at which point we recommend either leading a discussion or watching the [ICANN New gTLD videos](https://www.youtube.com/playlist?list=PLQziMT9GXafXXUX1ZocxjdvlOTdtojP0m)
-
-### More Unnecessarily Verbose Notes On Points
-- Points scoring that applies to all players
-	- brands buying namespace gives everyone base set of points
-	- "scarcity creep"--with each passing round players get a few more people acquiring domains from them simply because there are less and less cool phrases and domains available
-- if a gTLD player gets an "acquire domain" card and choose to submit an application for a new TLD, other players can contest the acquisition and the game goes to the domain auction. (basically a lightning round where auction participants try to buy the domain)
-- **fun fact**: the points are mostly meaningless, ICANN always wins 
-- Available actions to players
-	- ccTLD
-		- representative agency for a country
-			- apply for ccTLD
-			- ban particular uses of TLDs based on national law
-			- apply for and acquire internationalized ccTLDs
-			- pursue domain hack-type purchases
-			- shut down the internet in your own country
-			- sell management of ccTLD to outside company (spend the rest of the game basically doing nothing and collecting a portion of sales/point acquisitions)
-		- shady dealer "on behalf of" country
-	- single-issue gTLD owner
-		- nationalist gTLD
-			- impose specific uses of the TLD
-			- lead secessionist revolts to regain use of your domain
-		- cultural/concept gTLD
-			- impose specific uses of the TLD
-			- contest gTLD hoarder purchases that are too similar to the domain/go to gTLD auction
-			- apply for more related gTLDs/expand interests
-	- gTLD hoarders
-		- apply for more gTLDs
-		- contest gTLDs/go to TLD auction
-		- impose specific uses of TLDs 
-
 
 ### The Cards, and What They Mean, Organized By Player Type
 

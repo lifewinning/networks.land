@@ -2,6 +2,7 @@
 layout: post
 title:  "The Physical Internet"
 category: reference
+permalink: reference/physical/
 ---
 
 This is intended as a broad overview of different types of physical objects and infrastructure that make up the internet. There are longer, more in-depth overviews of each of these infrastructural elements, but this is mainly for having a big-picture view of how they work. 
