@@ -3,6 +3,7 @@ layout: default
 title:  "Resources"
 permalink: /resources/
 category: header
+image: point-arena-3.JPG
 ---
 
 Here are some links to books, videos, and articles that are either um, by us, or that are super useful to understanding how the internet works and its history. It's by no means an exhaustive list! We hope it's useful to you.

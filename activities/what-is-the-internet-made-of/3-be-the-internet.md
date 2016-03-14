@@ -2,6 +2,7 @@
 layout: page
 title: Packet Switching Relay Race
 category: activities
+image: objects-5.JPG
 ---
 
 So this game is pretty silly, but surprisingly fun?
@@ -14,6 +15,7 @@ So this game is pretty silly, but surprisingly fun?
 	- Two sets of at least 24 different sized envelopes (your mileage may vary)
 	- At least three different maximum 12-piece puzzles (again, your mileage may vary)
 		- We bought blank 12-piece puzzles [here](http://www.amazon.com/dp/B00598K8H8/ref=cm_sw_r_tw_dp_q49Twb0ZD0PMQ)
+		- ![blocks](/assets/objects-1.JPG){:.img-responsive}
 - 3 tables
 
 ### Activities
