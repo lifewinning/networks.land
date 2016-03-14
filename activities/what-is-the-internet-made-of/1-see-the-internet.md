@@ -3,6 +3,7 @@ layout: page
 title:  Introduction to Seeing the Internet
 category: activities
 image: point-arena-5.JPG
+permalink: activities/see-the-internet/
 ---
 
 This is an outline of an activity we usually do at the beginning of any of our workshops. It's a good way to understand what students already know and get an idea of what they want to know.

@@ -2,6 +2,7 @@
 layout: page
 title: I Think Therefore ICANN (A Roleplaying Game About Domain Names)
 category: activities
+permalink: activities/i-think-therefore-icann/
 ---
 
 This is a very didactic, very silly game for understanding the weird politics that has previously happened and continues to happen behind the scenes of top-level domains, or that thing you put at the end of a URL in a browser. 

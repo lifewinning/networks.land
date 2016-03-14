@@ -2,42 +2,106 @@
 layout: post
 title:  "Top-Level Domains"
 category: reference
+permalink: reference/top-level-domains/
 ---
 
 This section is an overview of *top-level domains*, or the things you see at the end of a URL in a browser. Domain names make using the internet a whole lot easier and a whole lot more fun, but the process that creates them entails a lot of weird complicated things. 
 
 ### Why do we need domain names?
 
-- DNS allows us to translate computer IP addresses to human readable urls, because its easier to remember google.com than 139.130.4.5. 
-- When the Internet was small, the network maintained a plain text file called HOSTS.txt which was the master list of the mappings of hosts to IP addresses. As the network scaled, this approach became impractical. The DNS protocol was created to deal with this problem.
-- Paul Mockapetris designed the Domain Name System at the University of California, Irvine in 1983, and wrote the first implementation at the request of Jon Postel from ISI. The Internet Engineering Task Force published the original specifications in RFC 882 and RFC 883 in November 1983, which have remained the standard for naming Internet hosts
+- Devices connected to a network using TCP/IP all have an **IP address**, a unique numerical ID. Numerical labels are great for letting computers talk to computers, but try to imagine having to remember something like 170.149.159.130 every time you wanted to visit a website. 
+- DNS allows us to translate computer IP addresses to human readable urls, mapping those IPs to domain names.
+- When the Internet was small, the network (which is to say, probably a graduate student working on the network) maintained a plain text file called HOSTS.txt which was the master list of the mappings of hosts to IP addresses. As the network scaled, this approach became impractical. The DNS protocol was created to deal with this problem.
+- Paul Mockapetris designed the Domain Name System at the University of California, Irvine in 1983, and wrote the first implementation at the request of [Jon Postel](http://www.wired.com/2012/10/joe-postel/). The Internet Engineering Task Force published the original specifications in RFC 882 and RFC 883 in November 1983, which have remained the standard for naming Internet hosts.
 
 ### How does it work?
 
 - The mappings of domain names to IP addresses are stored in a distributed network of servers. DNS is stored in a reverse tree like heirarchal structure. 
 - Since that last sentence meant literally nothing, here is an analogy: imagine you're looking for a book in the library. If you told the librarian the authors name, they will most likely first look up the last name and then try and then sort for the first name. DNS works similarly but instead of one librarian imagine you had a network of librarians all focusing on specific sub sections of the titles.
-- Did that help? Not really? OK. Let's try something more like a "real world" example. Like example.com. When you try to connect to example.com, the first thing your computer does is talk to the DNS servers to ask it what the IP address for example.com is. When the DNS server sees this request it tries to resolve it from right to left. This means it will look up see which servers it knows that have information on .com domain names and pass the request on to those. 
+- Did that help? Not really? OK. Let's try something more like a "real world" example. 
+- Like example.com. When you try to connect to example.com, the first thing your computer does is talk to the DNS servers (a computer that sort of acts as a domain-to-IP directory) to ask it what the IP address for example.com is. When the DNS server sees this request, it tries to resolve the request from right to left. 
+- This means it will look up see which servers it knows that have information on **.com** domain names and pass the request on to those servers, which will then look up or send along the request for the **example** part of example.com. 
 
-# How Did This Happen?
+### Who Is Responsible For DNS?
 
-### ICANN
-- The Internet Corporation for Assigned Names and Numbers is the body that is responsible for coordinating the maintenance and methodologies of the root name servers and associated databases of the internet.
+In the end, we have no one to blame but ourselves. Well, also the fact that today's systems of internet governance were born more out of happenstance and kind of limited foresight on how big and complex the network would become. 
+
+#### ICANN
+- The Internet Corporation for Assigned Names and Numbers (ICANN) is the body that is responsible for coordinating the maintenance and methodologies of the root name servers and associated databases of the internet. A lot of this work happens via the The Internet Assigned Numbers Authority (IANA).
+- It was created in 1998 basically as the U.S. government realized that they didn't really know what the fuck they were doing. Well, it's a little more complicated than that, but we'll get into this more later.
 - They also are responsible for policy development for internationalization of the DNS system, introduction of new generic top-level domains (TLDs), and the operation of root name servers. The numbering facilities ICANN manages include the Internet Protocol address spaces for IPv4 and IPv6, and assignment of address blocks to regional Internet registries. 
-
+- 
 
 ### Types of Top-Level Domains
 
+For reference: IANA maintains a database of all TLDs [here](https://www.iana.org/domains/root/db).
+
 #### The "original" TLDs 
 
-These are the domains created before the introduction of ICANN. They are the oldest of the top-level domains. 
+These are the domains created before the introduction of ICANN. They are the oldest of the top-level domains, and while some have retained their original use-cases many are now just taken as sort of given, de facto domains. 
 
-| **domain** | **use-case** | **who manages it**|
-|-----------------------------------------------|
-|.com | | |
-|.net | | |
-|.org| | |
-|.edu| | |  
-| .mil| | |
+<div  markdown="1" class="row row-eq-height">
+	
+<div  markdown="1" class="col-md-4">
+	
+###.com 
+**Use Case**: "commercial"--can be used by anyone, sort of through the weirdness of early internet history became the default top-level domain for commercial or personal use. 
+
+**Managed By**: Initially managed by Network Solutions, Inc. as a contractor to the U.S. government, it's now managed by Verisign, Inc. 
+
+</div>
+
+<div  markdown="1" class="col-md-4">
+
+###.net 
+
+**Use Case**: "network"--originally intended for distributed networks of computers.
+
+**Managed By**: Verisign, Inc.
+
+</div>
+
+<div  markdown="1" class="col-md-4">
+
+###.org 
+
+**Use Case**: "organization"--originally intended for non-profit organizations only (and used by many non-profits for this reason), it's also appropriated by less benevolent initiatives (see [internet.org](http://internet.org)) 
+
+**Managed By**: the Public Interest Registry, a domain registrar created by the non-profit organization Internet Society.
+
+</div>
+
+<div  markdown="1" class="col-md-4">
+
+###.edu
+
+**Use Case**: "educational"--although, since we are dealing with a U.S. hegemony here, what's considered an "educational" means more "institutions of education" than "educational". As of 2001 the domain is actually only for United States education institutions accredited by any accreditation agency recognized by the U.S. Department of Education. 
+
+**Managed By**: Educause, a nonprofit dedicated to supporting higher education IT initiatives, is responsible for the TLD, although they actually contract out this work to...surprise! Verisign again. 
+
+</div>
+
+<div  markdown="1" class="col-md-4">
+
+###.gov 
+
+**Use Case**: U.S. state and federal agencies 
+
+**Managed By**: The General Services Administration contracts out maintenance of this TLD to Verisign.
+
+</div>
+
+<div  markdown="1" class="col-md-4">
+
+###.mil
+
+**Use Case**: United States military 
+
+**Managed By**: The U.S. Department of Defense
+
+</div>
+</div>
+
 
 ### Country-Code TLDs (ccTLD)
 

@@ -7,6 +7,10 @@ category: header
 
 Here are some links to books, videos, and articles that are either um, by us, or that are super useful to understanding how the internet works and its history. It's by no means an exhaustive list! We hope it's useful to you.
 
+## Other Cool Educational Projects
+
+[Bubblesort Zines](http://bubblesort-zines.myshopify.com/) by Amy Wibowo are an amazing collection of zines about different aspects of computer science and networking. 
+
 ## Protocol Layer Things
 
 [Protocol: How Control Exists After Decentralization](http://www.powells.com/book/protocol-how-control-exists-after-decentralization-9780262572330/66-0), Alex "You Literally Can't Escape Alex Galloway" Galloway
