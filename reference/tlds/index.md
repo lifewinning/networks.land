@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top-Level Domains"
+title:  "Top-Level Domains and the Domain Name System (DNS)"
 category: reference
 permalink: reference/top-level-domains/
 ---
@@ -10,17 +10,18 @@ This section is an overview of *top-level domains*, or the things you see at the
 ### Why do we need domain names?
 
 - Devices connected to a network using TCP/IP all have an **IP address**, a unique numerical ID. Numerical labels are great for letting computers talk to computers, but try to imagine having to remember something like 170.149.159.130 every time you wanted to visit a website. 
-- DNS allows us to translate computer IP addresses to human readable urls, mapping those IPs to domain names.
+- The Domain Name System (DNS) protocol allows us to translate computer IP addresses to human readable urls, mapping those IPs to domain names.
 - When the Internet was small, the network (which is to say, probably a graduate student working on the network) maintained a plain text file called HOSTS.txt which was the master list of the mappings of hosts to IP addresses. As the network scaled, this approach became impractical. The DNS protocol was created to deal with this problem.
 - Paul Mockapetris designed the Domain Name System at the University of California, Irvine in 1983, and wrote the first implementation at the request of [Jon Postel](http://www.wired.com/2012/10/joe-postel/). The Internet Engineering Task Force published the original specifications in RFC 882 and RFC 883 in November 1983, which have remained the standard for naming Internet hosts.
 
-### How does it work?
+### How does DNS work?
 
 - The mappings of domain names to IP addresses are stored in a distributed network of servers. DNS is stored in a reverse tree like heirarchal structure. 
 - Since that last sentence meant literally nothing, here is an analogy: imagine you're looking for a book in the library. If you told the librarian the authors name, they will most likely first look up the last name and then try and then sort for the first name. DNS works similarly but instead of one librarian imagine you had a network of librarians all focusing on specific sub sections of the titles.
 - Did that help? Not really? OK. Let's try something more like a "real world" example. 
 - Like example.com. When you try to connect to example.com, the first thing your computer does is talk to the DNS servers (a computer that sort of acts as a domain-to-IP directory) to ask it what the IP address for example.com is. When the DNS server sees this request, it tries to resolve the request from right to left. 
 - This means it will look up see which servers it knows that have information on **.com** domain names and pass the request on to those servers, which will then look up or send along the request for the **example** part of example.com. 
+- For a super-thorough and fun overview of this in greater detail, check out [this guide from DNSimple](https://howdns.works/).
 
 ### Who Is Responsible For DNS?
 
@@ -121,45 +122,35 @@ These are the domains created before the introduction of ICANN. They are the old
 		- .io, .ac, .sh -- Internet Computer Bureau
 		- Verisign management of .tv
 - Political Incidents/Implications
-	- the Internet Computer Bureau example--countries with complicated political status who continue to be unable to see the benefits of their domains
-	- what happens when countries come apart? the .yu example when the former Yugoslavia fell apart
-	- cultural/political clashes (vb.ly indcident and decency laws, Turkmenistan domains)
+	- many smaller former British colonial countries with complicated political status didn't necessarily claim their TLDs and, while many are available for purchase continue to be unable to see the benefits of their domains. The [.io story](https://gigaom.com/2014/06/30/the-dark-side-of-io-how-the-u-k-is-making-web-domain-profits-from-a-shady-cold-war-land-deal/) is perhaps the most famous of these.
+	- what happens when countries come apart, like [Yugoslavia](https://vimeo.com/95833310)?
+	- cultural/political clashes that either lead to restricted use of the TLD (vb.ly indcident) or make it difficult to actually register/maintain the TLD
 
-#### Generic Top-Level Domain gTLD
+### Generic Top-Level Domain (gTLD)
 
-<!-- Add here a history of the whole gTLD mess and how we got here -->
+Starting around 2000, ICANN started adding new generic top-level domains beyond the six standard domains (these included domains like .biz and .info). In 2012 ICANN formally opened up a process in which compainies apply to establish a new top-level domain. 
 
 - Definitions/Types
 	- sponsored gTLD: represents a concept or term, non-geographic  
 	- geographic gTLD
 		- represents a geographic region or cultural identity
-			- city/region (.nyc)
-			- cultural identity (.cat)
-			- places that might like more sovereignty than they have (.wales, .scot)
-		- varied requirements w/r/t relationship to place
+			- city/region (.nyc, .london, .miami)
+			- cultural identity or specific language not affiliated with a "country" as such (Catalonian and Welsch are two examples)
+		- Requirements for domains bought under these TLDs vary; sometimes the person buying the domain has to use the language represented by the TLD (in the case of Catalonia), sometimes they have to show proof of residence in or relevance to the city in question.
 - Acquisition process
-	- Application fee is $185,000--$5K of which is paid to reserve a space *for* your application, the remainder paid when the application's actually submitted
+	- Application fee is $185,000--$5,000 of which is paid just to reserve a space for the application, the remainder paid when the application's actually submitted
 	- Why is it so expensive? According to ICANN: 
 		> The total fee per applicant takes into account close to $US13 million invested by ICANN since October 2007 to put the design of the implementation program in place. It includes allocated staff time, direct consulting expenses and other fixed costs.
 	- The application basically needs to make the case for why a domain should exist--what, if any, demographic it serves, how it will benefit the name space, 
 	- Two weeks after the application deadline, ICANN publishes the total list of applications. At that point domain applications can be contested
 	- Things that can't be registered as gTLDs: existing 2 or 3-letter ISO country codes (.and, for example), registered trademark products (not even by the owner of the trademark), 	
 - Ownership
-	- individual institutional stakeholders for very narrow, specific participants (.museum, .aero)
-	- representatives of a regional/cultural concern (.cat)
-	- colonial powers fucking over regional/cultural concerns (.wales)
-	- large companies seeking general control over namespaces (e.g. Donuts just buying all the weird domains for all the things)
-- Political Incidents/Implications
-	- what if your regional/cultural entity secedes? (.scot, .cat)
-	- capacity to be used for straight trolling (.sucks)
-	- what does it even mean to "own" these terms/phrases?
-
-### Why People Buy Domains
-
-- Political Application
-- Commerce
-- Brand Identity
-- Domain hacks/Linguistic happenstance/Poetics (e.g. [notall.technology/actually](http://notall.technology/actually))
-- Jokes (e.g. [winafreebird.com](http://winafreebird.com) means nothing but is also amazing?)
-
-
+	- individual institutional stakeholders for very narrow, specific participants (examples include .museum, .aero, which can only be purchased by people working in or tied to those fields)
+	- representatives of a regional/cultural concern ([.cat](https://www.washingtonpost.com/news/the-intersect/wp/2015/05/13/the-curious-case-of-cat-the-internets-weirdest-most-radical-domain/), the TLD for the Catalonian community, is an example of one such domain)
+	- internal politics and hangovers of colonialism leading to weird domain acquisitions ([.wales](http://www.theregister.co.uk/2011/11/15/cymru_wales_domands/) was a gTLD for the Welsch-speaking community and was ultimately awarded to a London company; so it goes)
+	- large companies seeking general control over namespaces as a business model (interestingly, Google is among the most active applicants for gTLDs; Amazon is also a big player)
+	- brand recognition (.accenture is a domain, no I'm not kidding, it is actually the worst)
+- Political Implications
+	- what if your regional/cultural entity secedes? Is it a ccTLD now?
+	- capacity to be used for straight trolling (the story of [.sucks](http://arstechnica.com/business/2016/01/firm-behind-sucks-wants-its-tld-to-be-magnet-for-conversation/) is illuminating)
+	- what does it even mean to "own" these terms/phrases? How does it contribute to specific companies shaping and defining more and more of how people experience the internet?

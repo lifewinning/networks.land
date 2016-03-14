@@ -3,29 +3,43 @@ layout: page
 title: Let's Build The Internet!
 category: activities
 image: objects-9.JPG
+permalink: activities/build-the-internet/
 ---
 
 This is probably the most fun but also right now the hardest activity to reproduce without us right now because of the use of the beautiful network modeling blocks created for this project by [Disk Cactus](http://diskcactus.com). A description of the kit's pieces is below under **Materials**, 
 
 *Objective: Understand how different objects that make up the internet connect to each other and that the internet is a **network of networks***
 
-<!-- ![1](http://networks.land/assets/ms51-4.JPG) -->
 
 ### Materials
 
 - Network modeling kit:
+
+	![blocks](/assets/objects-7.JPG){:.img-responsive}
+
 	- Set of **modular blocks** that can be used as "nodes" of the network
 		- Our blocks were custom and made of wood, but you could also make blocks using something like [floral foam](http://www.save-on-crafts.com/floralfoams.html) or small sections of pegboard or even maybe geoboads.
 		- The most important characteristics of your blocks are that it's possible to attach things to them. 
-		- ![blocks](/assets/objects-7.JPG){:.img-responsive}
-	- Photos printed on or attached to on small pieces of colored card stock of different pieces of internet infrastructure that can be interchangeably attached to the blocks. 
+	
+	
+	![blocks](/assets/objects-16.jpg){:.img-responsive}
+	
+	- **Photos** printed on or attached to on small pieces of colored card stock of different pieces of internet infrastructure that can be interchangeably attached to the blocks. 
 		- You can use [our sets of image](/handouts/tiny-infrastructure.pdf) or make your own cards. 
 		- The color codes are part of the rules of the activity: certain objects can connect to each other, in certain ways, and other objects can't. The color code scheme we used is [here on this handout](/handouts/colors-for-blocks.pdf)
 		- Pro tip: you might want to laminate these cards, or at least cover them in packing tape or something, so they don't get worn out really fast.
-		- ![blocks](/assets/objects-14.JPG){:.img-responsive}
 	- Various sized **wooden dowels** that will be used for illustrating wireless connections
 	- Material to connect the blocks together (string, pipe cleaners, straws--whatever works for your version!)
+	- In our version of this we used two different kinds of colored tubing to created connections--orange for traditional internet communications and connections, and blue for cellular connections.
 	- Tape for affixing the cards to things as needed
+
+Here is an example of the modeling kit used to show two devices (a laptop and a router) communicating wirelessly via wifi. The router also has a wired connection back to the street and into a data center.
+
+![blocks](/assets/objects-10.JPG){:.img-responsive}
+
+Here is an example of a cell tower emitting a wireless signal, still connected back to a fiber network. 
+
+![blocks](/assets/objects-11.JPG){:.img-responsive}
 
 ### Activities
 
@@ -39,7 +53,6 @@ This is probably the most fun but also right now the hardest activity to reprodu
 		- 2 routers
 		- 2 "fiber"/street-level
 		- 2 data centers
-		- ![blocks](/assets/objects-10.JPG){:.img-responsive}
 	- **Computers Talking to Cell Phones
 		- 1 computer
 		- 1 router
@@ -52,7 +65,6 @@ This is probably the most fun but also right now the hardest activity to reprodu
 		- 2 cell towers
 		- 2 "fiber"/street-level
 		- 2 data centers
-		- ![blocks](/assets/objects-11.JPG){:.img-responsive}
 
 - Yes, these are *woefully* oversimplified. We know. We're sorry. 
 

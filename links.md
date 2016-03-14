@@ -32,6 +32,8 @@ Here are some links to books, videos, and articles that are either um, by us, or
 
 [James Bridle's Citizen Ex essays on country-code domains](http://citizen-ex.com/stories)
 
+[From Yu to Me](https://vimeo.com/95833310), a documentary about the former Yugoslavian top-level domain and its demise
+
 ## More Internet History
 
 [A massive dump of interesting PDFs related to internet history from Brett Victor](http://worrydream.com/refs/)
