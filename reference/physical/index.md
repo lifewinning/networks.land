@@ -5,16 +5,34 @@ category: reference
 permalink: reference/physical/
 ---
 
-This is intended as a broad overview of different types of physical objects and infrastructure that make up the internet. There are longer, more in-depth overviews of each of these infrastructural elements, but this is mainly for having a big-picture view of how they work. 
+This section offers a broad overview of different types of physical objects and infrastructure that make up the internet. 
 
 # Routers
 
-For most people, this is where access to the internet starts. Well, technically it starts at a computer, tablet, or smart phone, and it starts with a wi-fi connection. Wifi signals travel through the air, usually between a device (like a computer or a phone) and a router. That router is connected to the internet via a modem, which connects either via what would be a TV cable (coaxial) or a phone line.
+<div class="row" markdown="1">
 
+![router](/assets/router.jpg){:.img-responsive .col-md-4} 
+
+<div markdown= "1" class="col-md-8">
+
+For most people, this is where access to the internet starts. Well, technically it starts at a computer, tablet, or smart phone, and it starts with a wi-fi connection. Wifi signals travel through the air, usually between a device (like a computer or a phone) and a router. That router is connected to the internet via a modem, which connects either via what would be a TV cable (coaxial) or a phone line. (image by Michael Lehenbauer via [Flickr](https://www.flickr.com/photos/mikelehen/4270260981/in/photolist-7vmcPk-5E5Krv-6xH853-5E5Kp8-eyzbiN-id4DED-9HXu2J-qkn5yr-7LSzE3-gcBJx-4Hmv7e-djp6gV-7LSzDo-bo5bS2-21jZr-4S6zZt-4cHeas-4SaLvG-6CpNTx-4cHeSL-qHqWFX-6edGZ6-p6HXd7-tFLLz-6335Hv-oCTM7k-fivCQi-9e6f5f-5J1PqC-bw8voK-5CSNn8-id4Qg9-pr2JL-7TRKKp-8TN2s-qH3os-qHiEWy-o7N4PM-id4AY7-xLwZa-9Qq3mW-2EDqRP-e88YRU-ag9UR4-e8xPbF-ezzgj7-6DrpKm-o7N2Ri-3N54A-fivCAR))
+
+</div>
+</div>
+
+<div class="row" markdown="1">
 
 # Cables
 
-The internet actually *is* a series of tubes. Although most people's interactions with the internet happen over a wireless connection, that connection always goes back to a wire. Let's say you're connecting via a wifi connection from a router. That router is wired into a cable network. If you're connected to the internet via a smart phone using a data plan, then the wireless signal is coming from a cell tower. Cell towers are also wired into a cable network, but it's usually made of fiber-optic cable. In both cases, those wired connections on the router and the cell tower send your internet activity back into a global network made mostly of cable. 
+<div class="col-md-8" markdown="1">
+
+(That's a picture of Ingrid holding up a pice of fiber opic cable cut from a cable wheel next to a cable on a telephone pole.) The internet actually *is* a series of tubes. Although most people's interactions with the internet happen over a wireless connection, that connection always goes back to a wire. Let's say you're connecting via a wifi connection from a router. That router is wired into a cable network. If you're connected to the internet via a smart phone using a data plan, then the wireless signal is coming from a cell tower. Cell towers are also wired into a cable network, which is, again, more fiber-optic cable. In both cases, those wired connections on the router and the cell tower send your internet activity back into a global network of mostly cables.
+
+</div> 
+
+![cable](/assets/point-arena-4.JPG){:.img-responsive .col-md-4}
+
+</div>
 
 ## Types of Cable
 
@@ -26,15 +44,89 @@ The internet actually *is* a series of tubes. Although most people's interaction
 
 ## Where Cable Lives and How To Spot It
 
-- **Above the Ground**: These are cables that hang from utility poles. Although they tend to just look like thick black cables, one way to recognize them is to look for big black cylinders or boxes handing along the cables. These are **amplifiers**, which are basically devices that convert the cable's signal from optical to electrical, and then back into optical. This is done because of something called **attenuation**. It refers to the way that information transmitted over a long distance deteriorates over time (think of the difference between shouting something across a really big field and shouting to someone right next to you--as the sound travels, it becomes harder to hear). Converting the signal from one form back into its original form reduces that attenuation. 
- 
-- **Below the Ground**: A lot of cables are buried underground in ducts, which means they aren't always that easy to see. But there are a lot of things that happen just above buried cables that can help you find it.  
-	- **Points of Entry**: Since repairpeople have to be able to access cables, there are a few things that are pretty easy to spot on the street that can help you find the internet. 
-		- **Junction Boxes**: These are basically the block-level switching points for home cable connections. Within these boxes are thousands of wires and cables for telephone, television, and internet, all coming from nearby buildings. In the junction box, those cables get connected to terminals that are themselves spliced into the underground cable network, sending whatever data you've transmitted via a wifi connection to the global internet network.
-		- **Manhole Covers**: These are entry points to underground ducts. The pattern and design or name of the company listed on the manhole cover can give some indication of what's buried underneath or who owns whatever is buried there. Typical generic manholes in the U.S. feature a hexagonal pattern and either a bell logo or the logo of some other internet company in the center. Sometimes these manholes will also just say something super-generic, like "Communications."  
-	- **Utility Markers**: These different markers and labels are usually meant to be temporary indicators of buried utilities, not permanent labels. Whenever construction companies or city workers have to cut open roads or fields for construction, they have to call a central service (811) so they can find out what's already buried in the spot they're going to dig up. 811 tells all the utilities and companies that have things buried underground to go label their things before the new construction work happens. That way, the people doing the construction don't end up knocking out a power line or your internet connection by mistake. All of these markings are color-coded for specific kinds of utilities. Orange is for all telecommunications. 
-		- **Cable Posts or Flags**: These are not commonly seen in dense cities, but they are very common along highways and railroads and more suburban areas. They often have the name of a company (maybe who owns the cable or sometimes which contractor located the cable for them) and a phone number (either 811, the number of the locating company, or the number of the cable owner).
-		- **Spray paint**: These tend to have less detailed information than flags or posts, but depending on the city you're in you can use them to figure out who owns a particular cable. 
+###Above the Ground
+
+<div class="row" markdown="1">
+
+![aboveground](/assets/ref-15.jpg){:.img-responsive .col-md-4}
+
+<div class="col-md-8" markdown="1">
+
+These are cables that hang from utility poles. Although they tend to just look like thick black cables, one way to recognize them is to look for big black cylinders or boxes handing along the cables. These are **amplifiers**, which are basically devices that convert the cable's signal from optical to electrical, and then back into optical. This is done because of something called **attenuation**. It refers to the way that information transmitted over a long distance deteriorates over time (think of the difference between shouting something across a really big field and shouting to someone right next to you--as the sound travels, it becomes harder to hear). Converting the signal from one form back into its original form reduces that attenuation. 
+
+</div>
+
+</div>
+
+### Below the Ground
+
+A lot of cables are buried underground in ducts, which means they aren't always that easy to see. But there are a lot of things that happen just above buried cables that can help you find it.  
+
+Since repairpeople have to be able to access cables, there are a few things that are pretty easy to spot on the street that can help you find the internet. 
+
+#### Junction Boxes
+<div class="row" markdown="1">
+
+![junction](/assets/ref-12.jpg){:.img-responsive .col-md-4}
+
+<div class="col-md-8" markdown= "1">
+
+These are basically the block-level switching points for home cable connections. Within these boxes are thousands of wires and cables for telephone, television, and internet, all coming from nearby buildings. In the junction box, those cables get connected to terminals that are themselves spliced into the underground cable network, sending whatever data you've transmitted via a wifi connection to the global internet network.
+
+</div>
+</div>
+
+#### Manhole Covers
+
+<div class="row" markdown="1">
+
+![manholes](/assets/ref-9.jpg){:.img-responsive .col-md-4}
+
+<div class="col-md-8" markdown="1">
+
+These are entry points to underground ducts. The pattern and design or name of the company listed on the manhole cover can give some indication of what's buried underneath or who owns whatever is buried there. Typical generic manholes in the U.S. feature a hexagonal pattern and either a bell logo or the logo of some other internet company in the center. Sometimes these manholes will also just say something super-generic, like "Communications."  
+
+</div>
+</div>
+
+#### Utility Markers
+
+<div class="row" markdown="1">
+
+![posts](/assets/ref-5.JPG){:.img-responsive .col-md-4}
+
+<div class="col-md-8" markdown="1">
+
+These different markers and labels are indicators of buried utilities. Whenever construction companies or city workers have to cut open roads or fields for construction, they have to call a central service (811) so they can find out what's already buried in the spot they're going to dig up. 811 tells all the utilities and companies that have things buried underground to go label their things before the new construction work happens. That way, the people doing the construction don't end up knocking out a power line or your internet connection by mistake. All of these markings are color-coded for specific kinds of utilities. Orange is for all telecommunications. 
+
+</div>
+</div>
+
+### Utility Flags
+
+<div class="row" markdown="1">
+
+![flags](/assets/ref-11.jpg){:.img-responsive .col-md-4}
+
+<div class="col-md-8" markdown="1">
+
+These are not commonly seen in dense cities, but they are very common along highways and railroads and more suburban areas. They often have the name of a company (maybe who owns the cable or sometimes which contractor located the cable for them) and a phone number (either 811, the number of the locating company, or the number of the cable owner).
+
+</div>
+</div>
+
+#### Spraypaint
+
+<div class="row" markdown="1">
+
+![spraypaint](/assets/ref-3.JPG){:.img-responsive .col-md-4}
+
+<div class="col-md-8" markdown="1">
+
+These tend to have less detailed information than flags or posts, but depending on the city you're in you can use them to figure out who owns a particular cable. 
+
+</div>
+</div>
 
 # Antennae
 
@@ -44,16 +136,36 @@ All antenna-based wireless communication depends pretty heavily on what's called
 
 ## Types of Antennae
 
-- **Cellular antenna** 
-	- Cell phones are basically screaming all the time. We can't hear them screaming, because they scream in radio waves, but they're basically constantly announcing their existence to other antennae via these radio signals. They're not saying all that much most of the time--more or less just "Hi! I'm here! I'm looking for a network to connect to!". If the phone is near to a cellular tower with antennae that connect to that phone's particular carrier, it connects to the network via that antenna. 
-	- If the phone moves away from that antennae or gets out of range of it, that's OK--the phone is still screaming. It never stops screaming. The nextnearest antenna will pick up its signal. 
-	- After someone dials a number or opens an app on a phone, the cell phone sends a signal out to the nearest tower with the request for that call or that app (it's still screaming "Hi! I'm here" but now also screaming "") . 
-	- The cellular antenna recieves the request and sends it back into a fiber optic cable network, routing it through a much larger network (either of more cables or microwave antennae) and to the right server that can process the request (e.g., a call switching station or a Facebook data center).
-	- That server sends the requested data back through the network to the antenna *nearest* to the phone and that antenna sends the data back to the phone.
+### Cellular
 
-- **Microwave antenna**: 
-	- These are used for what's called **point-to-point** communication, which works like a relay system. 
-	- When one antenna in the microwave network receives a signal, it passes that signal on to the next nearest antenna, which then passes the signal on to the *next* nearest antenna, and so on until it reaches its destination. 
+<div class="row" markdown="1">
+
+![cellular](/assets/ref-4.JPG){:.img-responsive .col-md-5}
+
+<div class="col-md-7" markdown="1">
+
+- Cell phones are basically screaming all the time. We can't hear them screaming, because they scream in radio waves, but they're basically constantly announcing their existence to other antennae via these radio signals. They're not saying all that much most of the time--more or less just "Hi! I'm here! I'm looking for a network to connect to!". If the phone is near to a cellular tower with antennae that connect to that phone's particular carrier, it connects to the network via that antenna. 
+- If the phone moves away from that antennae or gets out of range of it, that's OK--the phone is still screaming. It never stops screaming. The nextnearest antenna will pick up its signal. 
+- After someone dials a number or opens an app on a phone, the cell phone sends a signal out to the nearest tower with the request for that call or that app (it's still screaming "Hi! I'm here" but now also screaming "") . 
+- The cellular antenna recieves the request and sends it back into a fiber optic cable network, routing it through a much larger network (either of more cables or microwave antennae) and to the right server that can process the request (e.g., a call switching station or a Facebook data center).
+- That server sends the requested data back through the network to the antenna *nearest* to the phone and that antenna sends the data back to the phone.
+
+</div>
+</div>
+
+### Microwave
+
+<div class="row" markdown="1">
+
+![microwave](/assets/ref-6.JPG){:.img-responsive .col-md-4}
+
+<div class="col-md-8" markdown="1">
+
+- These are used for what's called **point-to-point** communication, which works like a relay system. 
+- When one antenna in the microwave network receives a signal, it passes that signal on to the next nearest antenna, which then passes the signal on to the *next* nearest antenna, and so on until it reaches its destination. 
+
+</div>
+</div>
 
 ## Where Antennae Live 
 
@@ -64,22 +176,39 @@ All antenna-based wireless communication depends pretty heavily on what's called
 
 # Internet Exchanges 
 
-In both the cables and the antennae examples, a person's request for data sort of just disappears into "the network" and data comes back out of "the network" to that person's device. The actual path that it takes and where it goes in that network can vary a lot (see **Packets** for a more granular look at how that happens), but at some point that path will go through an *internet exchange*. These are also sometimes called *carrier hotels*. 
+<div class="row" markdown="1">
+
+![data center](/assets/ref-14.JPG){:.img-responsive .col-md-5}
+
+<div class="col-md-7" markdown="1">
+
+In both the cables and the antennae examples, a person's request for data sort of just disappears into "the network" and data comes back out of "the network" to that person's device. The actual path that it takes and where it goes in that network can vary a lot (see te [Packets](/reference/packets) reference section for a more granular look at how that works), but at some point that path will go through an *internet exchange*. These are also sometimes called *carrier hotels*. 
 
 Imagine someone sitting at home trying to watch something on Netflix. They click on a movie they want to watch, and that click sends a request to Netflix's servers saying "Hey, bring me this movie" The person watching Netflix is connected to the internet via Company A, and Netflix is connected to the internet via Company B. At some point, that request for a movie has to move from the Company A network to the Company B network. Internet exchanges are where that happens. Racks and racks of switching equipment and cables run through these buildings.
 
-The main difference between an internet exchange and a data center is that a data center is where things are stored, and internet exchanges are where things are moved around. If we use the old "information superhighway" metaphor for the internet, data centers are garages and internet exchanges are highway interchanges.
+The main difference between an internet exchange and a data center is that a data center is where things are stored, and internet exchanges are where things are moved around. If we use the old "information superhighway" metaphor for the internet, data centers are garages and internet exchanges are highway interchanges. (photo of 60 Hudson by Telx from their documentary [*Urban Giants*](https://vimeo.com/97945495))
+
+</div>
+</div>
 
 ## Where Internet Exchanges Live
 
 You can look up the locations of a lot of these buildings at Telegeography's [Internet Exchange Map](http://internetexchangemap.com). Seeing where internet exchanges are densely concentrated and where there aren't many at all is a pretty useful way of figuring out which places in the world have limited telecommunications infrastructure--or, at least, limited cable network infrastructure.
 
-In general, these places are not open for tours, but if you really want to try to get inside, it never hurts to try contacting the carrier hotel you're trying to get into!
+In general, these places are not open for tours, but if you really want to try to get inside, it never hurts to try contacting the carrier hotel you're trying to get into! 
 
 
 # Data Centers
 
+<div class="row" markdown="1">
+
+![data center](/assets/ref-13.JPG){:.img-responsive .col-md-5}
+
+<div class="col-md-7" markdown="1">
+
 Data centers are basically really big buildings full of servers and routing equipment, that host lots of different websites and services that make up the internet. Some really big companies, like Google and Facebook, build their own data centers just for running their services and applications, but a lot of smaller companies will just run their websites on servers in what are known as *colocation* data centers--as in, servers are location with a bunch of other servers. 
+</div>
+</div>
 
 ## Where Data Centers Live
 

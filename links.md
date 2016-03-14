@@ -26,9 +26,13 @@ Here are some links to books, videos, and articles that are either um, by us, or
 
 [A Prehistory of The Cloud](http://www.powells.com/book/a-prehistory-of-the-cloud-9780262029513/62-1), Tung-Hui Hu
 
+[Urban Giants](https://vimeo.com/97945495), a short documentary on two major NYC carrier hotels.
+
 ## Top-Level Domains and DNS
 
 [How DNS Works Guide from DNSimple](https://howdns.works/)
+
+[ICANN's website on new gTLDs](https://newgtlds.icann.org/en/about)
 
 [James Bridle's Citizen Ex essays on country-code domains](http://citizen-ex.com/stories)
 
