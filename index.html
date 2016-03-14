@@ -6,11 +6,13 @@ layout: index
       <h2>{{ site.description }}</h2>
         {% for page in site.pages order:ascending %}
           {% if page.category and page.category == "header" %}
-          <div class="col-md-3">
+          <div class="col-md-11" style="margin: 0.5em;">
+
           {% if page.image %}
-			<img src="/assets/{{page.image}}" class="img-responsive">
-			{% endif %}
-          <h3><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
+          <div id="page-header" style="background-image: url(/assets/{{page.image}}); background-size: 100% auto; background-repeat: no-repeat; background-position: center;">
+          <h1 ><a class="landing-page-link" href="{{ page.url | prepend: site.baseurl }}" >{{ page.title }}</a></h1>
+          </div>
+          {% endif %}
           </div>
           {% endif %}
         {% endfor %}

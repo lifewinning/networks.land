@@ -24,3 +24,24 @@ a:hover{
     	padding: 1.5em;
 	}
 }
+
+#page-header{
+	height: 100%;
+	width: 100%;
+	display: table;
+	h1{
+		color: white;
+		display: table-cell;
+    	vertical-align: middle;
+    	padding: 1.5em;
+    	text-align: center;
+	}
+}
+
+.main-header{
+	background-color: $orange;
+}
+.landing-page-link{
+   color: white;
+   display: inline-block;
+}
