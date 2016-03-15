@@ -6,9 +6,12 @@ permalink: activities/i-think-therefore-icann/
 image: tld-1.JPG
 ---
 
-This is a very didactic, very silly game for understanding the weird politics that has previously happened and continues to happen behind the scenes of top-level domains, or that thing you put at the end of a URL in a browser. 
+
+This is a very didactic, very silly game for understanding the weird politics that has previously happened and continues to happen behind the scenes of top-level domains, or that thing you put at the end of a URL in a browser. Probably better suited to older players, not necessarily for content but maybe more just because of the sheer degree of abstraction entailed. 
 
 Domain names are where the politics, poetics, and peculiarities of the web express themselves in often the most direct and clever ways. But even the most active domain name hoarder might not really understand how the Domain Name System works, why certain TLDs exist, and how they at times become an arena where real-world geopolitical conflicts play out online. This game is meant to walk players through some of those realities. 
+
+A lot of this gets into the deep weird weeds of internet governance, in particular how ICANN works. We've put together a [reference page](/reference/top-level-domains), but it is admittedly super, super broad; as of right now this game is probably easier and more fun to play with audiences that are a little more excited about...DNS and internet governance. Which might actually be like, four people
 
 **A Word Of Caution**: We are bad at math! And still trying different variations on points allocation. If you find a better ratio for gameplay please let us know! We would love to hear from anyone who actually ends up using and playing this game.
 
@@ -46,11 +49,11 @@ Many thanks to the [Radical Networks](http://radicalnetworks.org) conference for
 
 #### ccTLDs
 
-- Domain Hack Bonus
+##### Domain Hack Bonus
 
 This is a set of points reflecting the scenario when a player's TLD becomes more lucrative due to hype around being able to make interesting puns and jokes using it. 
 
-- Contentious Use of Your TLD
+##### Contentious Use of Your TLD
 
 This is a scenario in which someone outside of a player's country uses their TLD in a way that doesn't necessarily reflect the country's political or cultural experiences, and the player has to decide whether to allow that use of their TLD or intervene, potentially damaging their TLD's reputation and position on the political stage or damaging their reputation in their country as a political leader. 
 
@@ -58,7 +61,7 @@ This is a scenario in which someone outside of a player's country uses their TLD
 
 `.ly`: Violet Blue's "sex-positive URL shortener" vb.ly was deleted by the .ly domain registry in 2010 allegedly for not adhering to regulations for the TLD related to "text referring to adult content and offensive imagery." Basically, pornography is illegal under Libyan law (which is not to say Sharia law, these are different) and although vb.ly was operating outside of Libya, it was still expected to adhere to Libyan law. Later that same year, access to less than four-letter .ly domains became restricted to Libyan residents. 
 
-- Government Collapse!
+##### Government Collapse!
 
 This is a scenario in which political unrest within your country leads to your country being divided into multiple independent states, leading your current TLD being retired and new rules being established. 
 
@@ -70,7 +73,7 @@ When SFR Yugoslavia dissolved during the Yugoslav Wars beginning in 1991, the re
 
 In 2003, the FR Yugoslavia became Serbia and Montenegro, and the .cs ccTLD was registered for the newly named country. However, it didn't really end up going into use. .yu ended up lingering for a while, basically being the only ccTLD that wasn't based on an ISO code. In a way, it kind of didn't make a huge difference since the Serbia and Montenegro split apart in 2006, which led to the creation of the .rs and .me TLDs. In 2007, ICANN handed control of .yu to the Serbian National Register of Internet Domain Names, with the intent of slowly phasing the TLD out and letting the domain expire, which it ultimately did in 2010.  
 
-- Middleman Offer
+##### Middleman Offer
 
 In this scenario, a ccTLD hands over maintenance and management of their TLD to a third-party operator. They can choose to do this for lots of reasons, though the most common reason is that the country itself lacks the IT infrastructure to actually run a domain registry and needs assistance promoting the TLD. However, this choice comes with caveats--technically the players only receive a percentage of profits from the TLD. 
 
@@ -88,7 +91,7 @@ All Chagossians were driven off the island starting around 1967, when Mauritius 
 
 All this to say, when ccTLDs were being registered Chagossians weren't exactly prepared for it, which is where Paul Kane and the Internet Computer Bureau come in. Kane registered the TLD way back in 1997, and is just now reaping the benefits of the .io TLD. The ICB also manages 2 other British territory TLDs, `.ac` (Ascenion Islands) and `.sh` (St. Helena). Kane has previously stated with regard to the TLDs that "Each of the overseas territories has an account and the funds are deposited there because obviously the territories have expenses that they incur and it’s offsetting that." Whether that's actually true or whether the account Kane describes actually goes to a representative of the Chagossian people is entirely unclear. 
 
-- Political Unrest
+##### Political Unrest
 
 While similar to the government collapse scenario, this more typically refers to chaos within a government more like a revolution or coup than confluence of several factions dissolving the nation. Players can choose a few secnarios to resolve or not resolve their conflict. 
 
@@ -100,7 +103,7 @@ While similar to the government collapse scenario, this more typically refers to
 
 #### Secessionist
 
-- Endorsement Letters
+##### Endorsement Letters
 
 For a non-recognized nation-state or cultural entity to receive a TLD, they have to do a bunch of things. One of those things is submit letters of support from government and cultural bodies, as well as businesses and individuals with a connection to the region or entity seeking a domain. 
 
@@ -110,7 +113,7 @@ For a non-recognized nation-state or cultural entity to receive a TLD, they have
 
 `.scot`: Created in 2014 to promote Scottish culture and identity, and kind of a fun detail in the efforts for Scottish secession that came up last year. 
 
-- Third Party Middleman
+##### Third Party Middleman
 
 Sometimes in the process of seeking out a TLD, a secessionist/cultural identity finds themselves scooped. Another gTLD service will basically swoop in and snag the sought-after TLD. This is a huge bummer. 
 
@@ -122,11 +125,11 @@ Sometimes in the process of seeking out a TLD, a secessionist/cultural identity 
 
 #### gTLD
 
-- Domain Hack Bonus
+##### Domain Hack Bonus
 
 This is a set of points reflecting the scenario when a player's TLD becomes more lucrative due to hype around being able to make interesting puns and jokes using it. 
 
-- Contentious Use of Your TLD
+##### Contentious Use of Your TLD
 
 Similar to the ccTLD scenario, but generally the politics have less to do with cultural identities and more to do with money and power.
 
@@ -136,6 +139,6 @@ Similar to the ccTLD scenario, but generally the politics have less to do with c
 
 Momentous, through their subsidiary Vox Populi, in some ways is kind of just running an extortion scheme through this TLD. During the "sunrise" registration period for the TLD they set up a "Trademark Clearinghouse" as a mechanism for allowing corporations to register a .sucks domains in advance--at the price of about $2500 a domain. (Stories about this TLD like to note how Taylor Swift has already acquired taylorswift.sucks, which like, *of course she has*.) 
 
-- Acquisition Round
+##### Acquisition Round
 
 This is the round where players can obtain more gTLDs. Most gTLDs are owned by a select number of companies, basically because it's a pretty expensive process to even request a TLD let alone receive it. Usually, these gTLDs are registered by wholly owned subsidiaries of the larger companies. 

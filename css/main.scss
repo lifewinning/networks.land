@@ -45,3 +45,8 @@ a:hover{
    color: white;
    display: inline-block;
 }
+
+code{
+	background-color: lighten($orange, 45%);
+	color: darken($orange, 25%);
+}
