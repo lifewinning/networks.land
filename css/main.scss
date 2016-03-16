@@ -65,13 +65,13 @@ a:hover{
 
 .nav-color{
 	background-color: $orange;
-
+}
 .landing-page-link{
    color: white;
    display: inline-block;
 }
 
-code{
+.code{
 	background-color: lighten($orange, 45%);
 	color: darken($orange, 25%);
 }
