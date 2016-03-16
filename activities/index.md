@@ -9,7 +9,4 @@ image: ms51-0.JPG
 
 These are some different games and activites we've designed for explaining network infrastructure and governance. They're primarily designed for kids 11 and up, although most of the concepts could still be broken down and translated to a younger audience. 
 
-Each lesson plan has PDFs and images from workshops as well as a list of materials and PDFs of relevant handouts.
- 
-<!--![My helpful screenshot]({{ site.url }}/assets/output.jpg)-->
-<!-- ![My helpful screenshot](http://localhost:4000/assets/ms51-0.JPG) -->
+Each lesson plan has links to PDF handouts used in the activities and images as well as a list of materials needed.

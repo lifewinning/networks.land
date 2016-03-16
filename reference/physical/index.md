@@ -44,7 +44,7 @@ For most people, this is where access to the internet starts. Well, technically 
 
 ## Where Cable Lives and How To Spot It
 
-###Above the Ground
+### Above the Ground
 
 <div class="row" markdown="1">
 
@@ -178,7 +178,7 @@ All antenna-based wireless communication depends pretty heavily on what's called
 
 <div class="row" markdown="1">
 
-![data center](/assets/ref-14.JPG){:.img-responsive .col-md-5}
+![data center](/assets/ref-14.jpg){:.img-responsive .col-md-5}
 
 <div class="col-md-7" markdown="1">
 

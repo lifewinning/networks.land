@@ -41,6 +41,7 @@ a:hover{
 .main-header{
 	background-color: $orange;
 }
+
 .navbar-default {
 	.navbar-nav {
 		li{
@@ -64,4 +65,13 @@ a:hover{
 
 .nav-color{
 	background-color: $orange;
+
+.landing-page-link{
+   color: white;
+   display: inline-block;
+}
+
+code{
+	background-color: lighten($orange, 45%);
+	color: darken($orange, 25%);
 }

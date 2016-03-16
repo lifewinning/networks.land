@@ -5,12 +5,12 @@ category: reference
 permalink: reference/top-level-domains/
 ---
 
-This section is an overview of *top-level domains*, or the things you see at the end of a URL in a browser. Domain names make using the internet a whole lot easier and a whole lot more fun, but the process that creates them entails a lot of weird complicated things. 
+This section is an overview of *top-level domains*, or the things you see at the end of a URL in a browser. Domain names make using the internet a whole lot easier and a whole lot more fun, but the process that creates them entails a lot of weird complicated things. This reference is mostly here for people interested in playing [I Think Therefore ICANN](/activities/i-think-therefore-icann/), a card game we made for talking about some of this stuff in a slightly more silly way. 
 
 ### Why do we need domain names?
 
 - Devices connected to a network using TCP/IP all have an **IP address**, a unique numerical ID. Numerical labels are great for letting computers talk to computers, but try to imagine having to remember something like 170.149.159.130 every time you wanted to visit a website. 
-- The Domain Name System (DNS) protocol allows us to translate computer IP addresses to human readable urls, mapping those IPs to domain names.
+- The **Domain Name System (DNS)** protocol allows us to translate computer IP addresses to human readable urls, mapping those IPs to domain names.
 - When the Internet was small, the network (which is to say, probably a graduate student working on the network) maintained a plain text file called HOSTS.txt which was the master list of the mappings of hosts to IP addresses. As the network scaled, this approach became impractical. The DNS protocol was created to deal with this problem.
 - Paul Mockapetris designed the Domain Name System at the University of California, Irvine in 1983, and wrote the first implementation at the request of [Jon Postel](http://www.wired.com/2012/10/joe-postel/). The Internet Engineering Task Force published the original specifications in RFC 882 and RFC 883 in November 1983, which have remained the standard for naming Internet hosts.
 
@@ -21,17 +21,17 @@ This section is an overview of *top-level domains*, or the things you see at the
 - Did that help? Not really? OK. Let's try something more like a "real world" example. 
 - Like example.com. When you try to connect to example.com, the first thing your computer does is talk to the DNS servers (a computer that sort of acts as a domain-to-IP directory) to ask it what the IP address for example.com is. When the DNS server sees this request, it tries to resolve the request from right to left. 
 - This means it will look up see which servers it knows that have information on **.com** domain names and pass the request on to those servers, which will then look up or send along the request for the **example** part of example.com. 
-- For a super-thorough and fun overview of this in greater detail, check out [this guide from DNSimple](https://howdns.works/).
+- OK, these explanations may have been just uselessly bad. For a super-thorough and fun overview of this in greater detail, check out [this guide from DNSimple](https://howdns.works/).
 
 ### Who Is Responsible For DNS?
 
-In the end, we have no one to blame but ourselves. Well, also the fact that today's systems of internet governance were born more out of happenstance and kind of limited foresight on how big and complex the network would become. 
+In the end, we have no one to blame but ourselves. Well, also the fact that today's systems of internet governance were born more out of happenstance and kind of limited foresight on how big and complex the network would become. Mostly these days, the creation of top-level domains and management of top-level name servers is the responsibility of one organization.
 
 #### ICANN
 - The Internet Corporation for Assigned Names and Numbers (ICANN) is the body that is responsible for coordinating the maintenance and methodologies of the root name servers and associated databases of the internet. A lot of this work happens via the The Internet Assigned Numbers Authority (IANA).
 - It was created in 1998 basically as the U.S. government realized that they didn't really know what the fuck they were doing. Well, it's a little more complicated than that, but we'll get into this more later.
 - They also are responsible for policy development for internationalization of the DNS system, introduction of new generic top-level domains (TLDs), and the operation of root name servers. The numbering facilities ICANN manages include the Internet Protocol address spaces for IPv4 and IPv6, and assignment of address blocks to regional Internet registries. 
-- 
+- Right now ICANN is in a super-weird moment that is hard to document because it's likely to change a whole lot soon--it's trying to transition away from being a primarily United States-based and backed organization to something that hopefully better represents a global plurality of the internet. 
 
 ### Types of Top-Level Domains
 
@@ -45,7 +45,7 @@ These are the domains created before the introduction of ICANN. They are the old
 	
 <div  markdown="1" class="col-md-4">
 	
-###.com 
+### .com 
 **Use Case**: "commercial"--can be used by anyone, sort of through the weirdness of early internet history became the default top-level domain for commercial or personal use. 
 
 **Managed By**: Initially managed by Network Solutions, Inc. as a contractor to the U.S. government, it's now managed by Verisign, Inc. 
@@ -54,7 +54,7 @@ These are the domains created before the introduction of ICANN. They are the old
 
 <div  markdown="1" class="col-md-4">
 
-###.net 
+### .net 
 
 **Use Case**: "network"--originally intended for distributed networks of computers.
 
@@ -64,7 +64,7 @@ These are the domains created before the introduction of ICANN. They are the old
 
 <div  markdown="1" class="col-md-4">
 
-###.org 
+### .org 
 
 **Use Case**: "organization"--originally intended for non-profit organizations only (and used by many non-profits for this reason), it's also appropriated by less benevolent initiatives (see [internet.org](http://internet.org)) 
 
@@ -74,9 +74,9 @@ These are the domains created before the introduction of ICANN. They are the old
 
 <div  markdown="1" class="col-md-4">
 
-###.edu
+### .edu
 
-**Use Case**: "educational"--although, since we are dealing with a U.S. hegemony here, what's considered an "educational" means more "institutions of education" than "educational". As of 2001 the domain is actually only for United States education institutions accredited by any accreditation agency recognized by the U.S. Department of Education. 
+**Use Case**: "educational"--what's considered an "educational" means more "institutions of education". As of 2001 the domain is actually only for United States education institutions accredited by any agency recognized by the U.S. Department of Education. 
 
 **Managed By**: Educause, a nonprofit dedicated to supporting higher education IT initiatives, is responsible for the TLD, although they actually contract out this work to...surprise! Verisign again. 
 
@@ -84,7 +84,7 @@ These are the domains created before the introduction of ICANN. They are the old
 
 <div  markdown="1" class="col-md-4">
 
-###.gov 
+### .gov 
 
 **Use Case**: U.S. state and federal agencies 
 
@@ -94,7 +94,7 @@ These are the domains created before the introduction of ICANN. They are the old
 
 <div  markdown="1" class="col-md-4">
 
-###.mil
+### .mil
 
 **Use Case**: United States military 
 
