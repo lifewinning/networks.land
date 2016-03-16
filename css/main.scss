@@ -20,8 +20,8 @@ a:hover{
 	h1{
 		color: white;
 		display: table-cell;
-    	vertical-align: middle;
-    	padding: 1.5em;
+		vertical-align: middle;
+		padding: 1.5em;
 	}
 }
 
@@ -32,16 +32,36 @@ a:hover{
 	h1{
 		color: white;
 		display: table-cell;
-    	vertical-align: middle;
-    	padding: 1.5em;
-    	text-align: center;
+		vertical-align: middle;
+		padding: 1.5em;
+		text-align: center;
 	}
 }
 
 .main-header{
 	background-color: $orange;
 }
-.landing-page-link{
-   color: white;
-   display: inline-block;
+.navbar-default {
+	.navbar-nav {
+		li{
+			a {
+				color: #fff;
+				text-shadow:none;
+			}
+			a:hover{
+				color: #5CB3FF;
+			}
+		}
+	} 
+}
+
+.section{
+	margin-top: 0.5em;
+	h2{
+		color: #6BA523;	
+	}
+}
+
+.nav-color{
+	background-color: $orange;
 }
