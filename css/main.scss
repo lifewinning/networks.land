@@ -5,7 +5,7 @@
 
 $green: #94DED4;
 $orange: #EA7B08;
-
+$hunter_green: #355e3b;
 a {
 	color: $orange;
 }
@@ -13,17 +13,17 @@ a:hover{
 	color: $orange;
 	text-decoration:none;
 }
-#page-header{
-	height: 100%;
-	width: 100%;
-	display: table;
-	h1{
-		color: white;
-		display: table-cell;
-		vertical-align: middle;
-		padding: 1.5em;
-	}
-}
+// #page-header{
+// 	height: 100%;
+// 	width: 100%;
+// 	display: table;
+// 	h1{
+// 		color: white;
+// 		display: table-cell;
+// 		vertical-align: middle;
+// 		padding: 1.5em;
+// 	}
+// }
 
 #page-header{
 	height: 100%;
@@ -36,8 +36,18 @@ a:hover{
 		padding: 1.5em;
 		text-align: center;
 	}
+	h1:hover{
+		background-color: $orange;	
+		// color: $hunter_green;
+	}
 }
 
+// h1:hover{
+// 	background-color: $orange;	
+// 	color: $hunter_green;
+// }
+
+// }
 .main-header{
 	background-color: $orange;
 }
@@ -50,7 +60,7 @@ a:hover{
 				text-shadow:none;
 			}
 			a:hover{
-				color: #5CB3FF;
+				color: $hunter_green;
 			}
 		}
 	} 
@@ -59,7 +69,7 @@ a:hover{
 .section{
 	margin-top: 0.5em;
 	h2{
-		color: #6BA523;	
+		color: $hunter_green;	
 	}
 }
 

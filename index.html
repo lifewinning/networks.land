@@ -9,9 +9,11 @@ layout: index
           <div class="col-md-11" style="margin: 0.5em;">
 
           {% if page.image %}
-          <div id="page-header" style="background-image: url(/assets/{{page.image}}); background-size: 100% auto; background-repeat: no-repeat; background-position: center;">
-          <h1 ><a class="landing-page-link" href="{{ page.url | prepend: site.baseurl }}" >{{ page.title }}</a></h1>
+          <a class="landing-page-link" href="{{ page.url | prepend: site.baseurl }}" style="width: 100%;">
+          <div id="page-header"   style="background-image: url(/assets/{{page.image}}); background-size: 100% auto; background-repeat: no-repeat; background-position: center;">
+          <h1  id='title-bar'>{{ page.title }}</h1>
           </div>
+          </a>
           {% endif %}
           </div>
           {% endif %}
