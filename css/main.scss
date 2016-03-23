@@ -42,6 +42,20 @@ a:hover{
 	}
 }
 
+#page-header-other{
+	height: 100%;
+	width: 100%;
+	display: table;
+	h1{
+		color: white;
+		display: table-cell;
+		vertical-align: middle;
+		padding: 1.5em;
+		text-align: center;
+	}
+
+}
+
 // h1:hover{
 // 	background-color: $orange;	
 // 	color: $hunter_green;
