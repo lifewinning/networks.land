@@ -17,7 +17,7 @@ A sequence of bytes (1's and 0's) that contain a source address, destination add
 This means that all the information we send each other over the network is broken down into discrete units. That information can be an email, a tweet, an image, or even a video you want to stream.
 
 
-##Packets, Networks and the Postal Service
+## Packets, Networks and the Postal Service
 
 
 We think of packets as being similar to your mail carrier because both a computer network and the postal service share a basic functionality.
