@@ -3,6 +3,7 @@ layout: page
 title:  Introduction to Seeing the Internet
 category: activities
 image: point-arena-5.JPG
+feedback: seeing-the-internet
 permalink: activities/see-the-internet/
 ---
 

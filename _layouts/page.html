@@ -15,3 +15,7 @@ layout: default
     {{ content }}
 
   {% include subpages.html %}
+
+  {% if page.feedback %}
+  	{% include feedback.html %}
+  {% endif %}

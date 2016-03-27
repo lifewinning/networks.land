@@ -3,6 +3,7 @@ layout: page
 title: Let's Build The Internet!
 category: activities
 image: objects-9.JPG
+feedback: build-the-internet
 permalink: activities/build-the-internet/
 ---
 

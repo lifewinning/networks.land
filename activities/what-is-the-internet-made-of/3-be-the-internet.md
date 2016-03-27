@@ -2,6 +2,7 @@
 layout: page
 title: Packet Switching Relay Race
 category: activities
+feedback: packet-switching-relay
 image: objects-5.JPG
 ---
 

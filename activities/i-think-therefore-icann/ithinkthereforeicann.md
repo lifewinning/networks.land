@@ -3,6 +3,7 @@ layout: page
 title: I Think Therefore ICANN (A Roleplaying Game About Domain Names)
 category: activities
 permalink: activities/i-think-therefore-icann/
+feedback: i-think-therefore-icann
 image: tld-1.JPG
 ---
 
