@@ -7,7 +7,7 @@ feedback: build-the-internet
 permalink: activities/build-the-internet/
 ---
 
-This is probably the most fun but also right now the hardest activity to reproduce without us right now because of the use of the beautiful network modeling blocks created for this project by [Disk Cactus](http://diskcactus.com). A description of the kit's pieces is below under **Materials**, 
+This is probably the most fun but also right now the hardest activity to reproduce without us right now because of the use of the beautiful network modeling blocks created for this project by [Disk Cactus](http://diskcactus.com). A description of the kit's pieces is below under **Materials**. 
 
 *Objective: Understand how different objects that make up the internet connect to each other and that the internet is a **network of networks***
 
@@ -19,7 +19,7 @@ This is probably the most fun but also right now the hardest activity to reprodu
 	![blocks](/assets/objects-7.JPG){:.img-responsive}
 
 	- ##### Set of **modular blocks** that can be used as "nodes" of the network
-		- Our blocks were custom and made of wood, but you could also make blocks using something like [floral foam](http://www.save-on-crafts.com/floralfoams.html) or small sections of pegboard or even maybe geoboads.
+		- Our blocks were custom and made of wood, but you could also make blocks using something like [floral foam](http://www.save-on-crafts.com/floralfoams.html) or small sections of pegboard or even maybe geoboards.
 		- The most important characteristics of your blocks are that it's possible to attach things to them. 
 	
 	
